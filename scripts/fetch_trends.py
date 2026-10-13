@@ -47,10 +47,11 @@ def youtube_mentions(term):
 def main():
     now=datetime.datetime.now(datetime.timezone.utc)
     items=[]
-    source_status={"Google Trends":"live","Google News":"live","YouTube":"optional_api_key","TikTok":"not_connected","Instagram":"not_connected","Facebook":"not_connected","Reddit":"not_connected"}
+    source_status={"Google Trends":"pending","Google News":"pending","YouTube":"optional_api_key","TikTok":"not_connected","Instagram":"not_connected","Facebook":"not_connected","Reddit":"not_connected"}
     for region,geo in REGIONS.items():
         try:
             entries=rss("https://trends.google.com/trending/rss?geo="+geo)
+            source_status["Google Trends"]="reachable"
         except Exception as exc:
             print("Trends",region,type(exc).__name__,str(exc)[:160])
             continue
@@ -86,6 +87,7 @@ def main():
             url="https://news.google.com/rss/search?"+urllib.parse.urlencode({"q":query+" when:7d","hl":lang,"gl":geo,"ceid":ceid})
             try:
                 entries=rss(url)[:15]
+                source_status["Google News"]="reachable"
             except Exception as exc:
                 print("Fallback discovery",region,type(exc).__name__,str(exc)[:120])
                 continue
@@ -111,8 +113,7 @@ def main():
     # Keep older valid feed on network failures, rather than publishing invented products.
     if not items:
         print("No product candidates found; retaining previous feed")
-        if not Path("trends.json").exists():
-            Path("trends.json").write_text(json.dumps({"updatedAt":now.isoformat(),"items":[],"sourceStatus":source_status,"note":"No verified product candidates yet"},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+        Path("trends.json").write_text(json.dumps({"updatedAt":now.isoformat(),"items":[],"sourceStatus":source_status,"note":"No product candidates found in accessible feeds; check GitHub Actions logs and source availability."},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
         return
     items.sort(key=lambda x:(len(x["videos"])>0,len(x["news"])>0),reverse=True)
     payload={"updatedAt":now.isoformat(),"items":items,"sourceStatus":source_status,

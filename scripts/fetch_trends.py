@@ -10,7 +10,8 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-REGIONS={"Italia":"IT","Regatul Unit":"GB","Germania":"DE","Franța":"FR","Spania":"ES","Polonia":"PL","SUA":"US","Canada":"CA","România":"RO"}
+REGIONS={"Italia":"IT","Regatul Unit":"GB","Germania":"DE","Franța":"FR","Spania":"ES","Polonia":"PL","Portugalia":"PT","Țările de Jos":"NL","Belgia":"BE","Austria":"AT","Elveția":"CH","Suedia":"SE","Norvegia":"NO","Danemarca":"DK","Finlanda":"FI","Irlanda":"IE","Grecia":"GR","Cehia":"CZ","România":"RO","SUA":"US","Canada":"CA","Mexic":"MX","Brazilia":"BR","Argentina":"AR","Australia":"AU","Noua Zeelandă":"NZ","Japonia":"JP","Coreea de Sud":"KR","India":"IN","Indonezia":"ID","Filipine":"PH","Singapore":"SG","Malaysia":"MY","Africa de Sud":"ZA","Turcia":"TR","Emiratele Arabe Unite":"AE"}
+
 PRODUCT_WORDS=re.compile(r"(?i)\b(projector|proiettore|proiector|air fryer|friggitrice|aspirapolvere|vacuum|robot|lampada|lamp|lampă|massager|massaggiatore|massage gun|smartwatch|auricolari|earbuds|headphones|cuffie|power bank|caricatore|charger|speaker|altoparlante|blender|frullatore|borraccia|bottle|sticlă|keyboard|tastiera|mouse|camera|fotocamera|webcam|drone|tablet|console|stampante|printer|monitor|diffusore|diffuser|umidificatore|humidifier|organizer|organizzatore|organisateur|portable fan|ventilatore|ventilator|led strip|striscia led|smart ring|anello smart|fitness tracker|thermos|termometro|thermometer|mini pc|dashcam|car vacuum|solar light|luce solare|lumină solară)\b")
 EXCLUDE=re.compile(r"(?i)\b(election|elezioni|president|presidente|partita|football|calcio|earthquake|terremoto|meteo|weather|lottery|lotto|war|guerra|celebrity|actor|attrice|movie|film|serie tv|concert|festival|politic|politica)\b")
 HEADERS={"User-Agent":"ViralRadar/1.1 (public RSS aggregation; contact via repository)"}
@@ -81,7 +82,11 @@ def main():
             "Germania":("DE","de","DE:de","neues smartphone gadget modell test"),
             "Franța":("FR","fr","FR:fr","nouveau smartphone gadget modèle test"),
             "Spania":("ES","es","ES:es","nuevo smartphone gadget modelo reseña"),
-            "SUA":("US","en","US:en","new gadget device model review")
+            "SUA":("US","en","US:en","new gadget device model review"),
+            "Japonia":("JP","ja","JP:ja","新製品 ガジェット レビュー"),
+            "India":("IN","en","IN:en","new smartphone gadget model review"),
+            "Brazilia":("BR","pt","BR:pt","novo smartphone gadget modelo análise"),
+            "Australia":("AU","en","AU:en","new gadget model review")
         }
         brand=re.compile(r"(?i)\\b(apple|iphone|ipad|samsung|galaxy|motorola|razr|google pixel|xiaomi|redmi|poco|oneplus|nothing phone|sony|bose|jbl|dyson|anker|ecovacs|roborock|dreame|garmin|fitbit|huawei|honor|lenovo|asus|acer|dji|gopro|meta quest|nintendo|playstation|xbox|kindle|homepod|airpods)\\b")
         model=re.compile(r"(?i)\\b(?:[a-z]{1,5}[- ]?\\d{1,4}[a-z]{0,4}|\\d{1,3}(?:\\s?(?:pro|max|ultra|plus|mini|fold|lite))?|(?:pro|max|ultra|fold|mini|plus|air|edge|razr))\\b")

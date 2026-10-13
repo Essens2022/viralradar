@@ -60,13 +60,19 @@ def main():
             title=(entry.findtext("title") or "").strip()
             if not title or not PRODUCT_WORDS.search(title) or EXCLUDE.search(title):
                 continue
-            traffic=next((e.text for e in entry if e.tag.endswith("approx_traffic")),None)
+            traffic=next(((e.text or "").strip() for e in entry if e.tag.endswith("approx_traffic")),None)
+            # Google Trends publishes a thumbnail for the trending query.
+            # This is contextual imagery, not a verified retailer product photo.
+            trend_picture=next(((e.text or "").strip() for e in entry if e.tag.endswith("picture")),None)
+            if trend_picture and not trend_picture.startswith("https://"):
+                trend_picture=None
             news=news_mentions(title,geo)
             videos,yt_status=youtube_mentions(title)
             if yt_status=="connected":source_status["YouTube"]="connected"
             item={"name":title,"region":region,"geo":geo,"traffic":traffic,
                   "published":entry.findtext("pubDate") or "",
                   "source":"Google Trends RSS","url":entry.findtext("link") or "",
+                  "trendThumbnail":trend_picture,"trafficType":"approximate_trending_searches",
                   "news":news,"videos":videos,
                   "evidence":[{"source":"Google Trends","type":"trending_search","url":entry.findtext("link") or ""}]+
                   [{"source":"Google News","type":"news_mention","url":n["url"]} for n in news]+

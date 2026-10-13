@@ -1,6 +1,357 @@
 {
-  "updatedAt": "2026-10-13T20:02:05.231898+00:00",
-  "items": [],
+  "updatedAt": "2026-10-13T20:06:32.707842+00:00",
+  "items": [
+    {
+      "name": "Samsung Galaxy S26 Ultra mit",
+      "region": "Germania",
+      "geo": "DE",
+      "traffic": null,
+      "published": "Fri, 09 Oct 2026 11:07:21 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WSEhOUWNteXZJQ2pHY3ZSSG41Qm1VUTJMM2xrNm5QdzBESFBDQnAzRl9SOVpSc0tCVG11T2xlblFtME1JOUpveV90YmhGR2g3SVBXbll2bzlCMW9GUUNwbnhDamQ?oc=5",
+      "news": [
+        {
+          "title": "Wahnsinn! Samsung Galaxy S26 Ultra mit Privacy Display jetzt für 739€ sichern! - China-Gadgets",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WSEhOUWNteXZJQ2pHY3ZSSG41Qm1VUTJMM2xrNm5QdzBESFBDQnAzRl9SOVpSc0tCVG11T2xlblFtME1JOUpveV90YmhGR2g3SVBXbll2bzlCMW9GUUNwbnhDamQ?oc=5",
+          "published": "Fri, 09 Oct 2026 11:07:21 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WSEhOUWNteXZJQ2pHY3ZSSG41Qm1VUTJMM2xrNm5QdzBESFBDQnAzRl9SOVpSc0tCVG11T2xlblFtME1JOUpveV90YmhGR2g3SVBXbll2bzlCMW9GUUNwbnhDamQ?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "Samsung Galaxy Z Flip8 fällt",
+      "region": "Germania",
+      "geo": "DE",
+      "traffic": null,
+      "published": "Thu, 08 Oct 2026 01:10:56 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03SUdHNW9EZ3R4X3M3TnRvVFlZdW9IMzNLQWN0dkxRM0xqT0RabnJXTU5haTM5Ujg4RXppd1NRTFZNdktMQzJ3V3JDYzFMWmVEOHNOVUZKdzFnVno1VU45S0UzZ3p2M212MzdxT2l3?oc=5",
+      "news": [
+        {
+          "title": "584€ unter UVP: Das aktuelle Samsung Galaxy Z Flip8 fällt auf 715€ - China-Gadgets",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03SUdHNW9EZ3R4X3M3TnRvVFlZdW9IMzNLQWN0dkxRM0xqT0RabnJXTU5haTM5Ujg4RXppd1NRTFZNdktMQzJ3V3JDYzFMWmVEOHNOVUZKdzFnVno1VU45S0UzZ3p2M212MzdxT2l3?oc=5",
+          "published": "Thu, 08 Oct 2026 01:10:56 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03SUdHNW9EZ3R4X3M3TnRvVFlZdW9IMzNLQWN0dkxRM0xqT0RabnJXTU5haTM5Ujg4RXppd1NRTFZNdktMQzJ3V3JDYzFMWmVEOHNOVUZKdzFnVno1VU45S0UzZ3p2M212MzdxT2l3?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "Honor Magic 9 Serie im",
+      "region": "Germania",
+      "geo": "DE",
+      "traffic": null,
+      "published": "Sat, 10 Oct 2026 12:37:22 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14MF9temQtajlncDdoY1NUV3JldHlyQlpSZHhBLW9vT3hvYkljN0VuUDN6TXRWakNhcHExMUJHQlU3ZWcwQnNaYkJfMjhLUEFibmM0MkZyUEx0QnVrZ2c?oc=5",
+      "news": [
+        {
+          "title": "Honor Magic 9 Serie im Import verfügbar: Bis zu 11.000-mAh-Akku und ARRI-Kamera - China-Gadgets",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14MF9temQtajlncDdoY1NUV3JldHlyQlpSZHhBLW9vT3hvYkljN0VuUDN6TXRWakNhcHExMUJHQlU3ZWcwQnNaYkJfMjhLUEFibmM0MkZyUEx0QnVrZ2c?oc=5",
+          "published": "Sat, 10 Oct 2026 12:37:22 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14MF9temQtajlncDdoY1NUV3JldHlyQlpSZHhBLW9vT3hvYkljN0VuUDN6TXRWakNhcHExMUJHQlU3ZWcwQnNaYkJfMjhLUEFibmM0MkZyUEx0QnVrZ2c?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "Samsung Galaxy S25 Ultra",
+      "region": "Franța",
+      "geo": "FR",
+      "traffic": null,
+      "published": "Tue, 13 Oct 2026 00:05:14 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2VsMm5PbFlUVjByMGpKWXlfUFIxMFBVdk9sVWdrVVBZV3d2YnFoc0xvTlltZ2xKRjg2Q1VFSHdmeWs4M3k1aGlXLU1ka21MNzVDT2VGVG5JV1U4cWRpWTFyWTR1ZWh4Qko2NVBIUVpDcUpMTUhTT2ZoVzRyTE5lSjBJazRpdw?oc=5",
+      "news": [
+        {
+          "title": "Test du Samsung Galaxy S25 Ultra : toujours au sommet, mais sur un plateau - Frandroid",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2VsMm5PbFlUVjByMGpKWXlfUFIxMFBVdk9sVWdrVVBZV3d2YnFoc0xvTlltZ2xKRjg2Q1VFSHdmeWs4M3k1aGlXLU1ka21MNzVDT2VGVG5JV1U4cWRpWTFyWTR1ZWh4Qko2NVBIUVpDcUpMTUhTT2ZoVzRyTE5lSjBJazRpdw?oc=5",
+          "published": "Tue, 13 Oct 2026 00:05:14 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2VsMm5PbFlUVjByMGpKWXlfUFIxMFBVdk9sVWdrVVBZV3d2YnFoc0xvTlltZ2xKRjg2Q1VFSHdmeWs4M3k1aGlXLU1ka21MNzVDT2VGVG5JV1U4cWRpWTFyWTR1ZWh4Qko2NVBIUVpDcUpMTUhTT2ZoVzRyTE5lSjBJazRpdw?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "Galaxy Z Flip, Fold, Magic",
+      "region": "Franța",
+      "geo": "FR",
+      "traffic": null,
+      "published": "Fri, 09 Oct 2026 10:16:40 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzFadVRjaXpJU0ZZMFY0eGdGX3A2b3k1elZ3ZXJyMWNLS0U2cTIzaHlKYjBQazFMb2FwZy1YWFdJaGI0ei1GWEEyYkNsSzJqbXZkU3k0S01yY0RwTGhNSklCQ0poaWk1ZkdkeFhfbHM1bUlHOThwZHBLM1VyZVU5SVk2eDEzRzlmdmdLWWZkZHVSTldoNW1HLTN4bGJGY3Vyd3NZaDRjMA?oc=5",
+      "news": [
+        {
+          "title": "Galaxy Z Flip, Fold, Magic V3, Razr... voici les meilleurs smartphones pliables ! - Frandroid",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzFadVRjaXpJU0ZZMFY0eGdGX3A2b3k1elZ3ZXJyMWNLS0U2cTIzaHlKYjBQazFMb2FwZy1YWFdJaGI0ei1GWEEyYkNsSzJqbXZkU3k0S01yY0RwTGhNSklCQ0poaWk1ZkdkeFhfbHM1bUlHOThwZHBLM1VyZVU5SVk2eDEzRzlmdmdLWWZkZHVSTldoNW1HLTN4bGJGY3Vyd3NZaDRjMA?oc=5",
+          "published": "Fri, 09 Oct 2026 10:16:40 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzFadVRjaXpJU0ZZMFY0eGdGX3A2b3k1elZ3ZXJyMWNLS0U2cTIzaHlKYjBQazFMb2FwZy1YWFdJaGI0ei1GWEEyYkNsSzJqbXZkU3k0S01yY0RwTGhNSklCQ0poaWk1ZkdkeFhfbHM1bUlHOThwZHBLM1VyZVU5SVk2eDEzRzlmdmdLWWZkZHVSTldoNW1HLTN4bGJGY3Vyd3NZaDRjMA?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "Acer Swift Air 14・CMF Speaker",
+      "region": "Japonia",
+      "geo": "JP",
+      "traffic": null,
+      "published": "Sat, 10 Oct 2026 21:35:53 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LZ0s5WG1LWkF3eUtpdWZfQ19PeUNBUVhQSG5oY3ktbzR6eEJwWXhlS045SGNYTmNkQ0V3T3FuS3IwcFd5WU5HcVE1ZndOUUtoSUF1VGlYYk5jc3BaR1E?oc=5",
+      "news": [
+        {
+          "title": "【2026/10/11】今日のガジェット注目ニュース3選｜Acer Swift Air 14・CMF Speaker S／M（公式予告）・Google TV Streamer 次世代機（報道） - https://ggc-japan.com/",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LZ0s5WG1LWkF3eUtpdWZfQ19PeUNBUVhQSG5oY3ktbzR6eEJwWXhlS045SGNYTmNkQ0V3T3FuS3IwcFd5WU5HcVE1ZndOUUtoSUF1VGlYYk5jc3BaR1E?oc=5",
+          "published": "Sat, 10 Oct 2026 21:35:53 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LZ0s5WG1LWkF3eUtpdWZfQ19PeUNBUVhQSG5oY3ktbzR6eEJwWXhlS045SGNYTmNkQ0V3T3FuS3IwcFd5WU5HcVE1ZndOUUtoSUF1VGlYYk5jc3BaR1E?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "Motorola Signature 27 First Look",
+      "region": "India",
+      "geo": "IN",
+      "traffic": null,
+      "published": "Fri, 09 Oct 2026 12:34:39 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFJRbWdlUG5RTWVPUnZiUHdESzJfem5RcmlpT2lHYUtVNkE5T3hLWVlqX0hJcGtCZk9yMlZWTFYyNDJRNGdMYTZsVlBRcTMzd1JnaVU5Ujc5UHJmMl9jaEdyWTh3b1JkdWJuNTczZ3JXc0o5Wi1qQTFmNWN4Rnc4dVotMTNxaVU5VGRtQdIBkgFBVV95cUxPMmJmM2p3ZzdCN3VyRUhxb2lPQURUSl94eHNaQzZTU3FyNHJtZUU2TlJOMzB5UHdFTmg2WmRPcjJNMDQ2M05vUy1kSGp0LVBuMVZOdTZGVUM2WklxaElyOW5yX01TaDdhZDhfM3FRLWN5aTZvR2dlNXFORFVHMzBiVDFGdldqVHZvWUpSODJCMkxqUQ?oc=5",
+      "news": [
+        {
+          "title": "Motorola Signature 27 First Look - Gadgets 360",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFJRbWdlUG5RTWVPUnZiUHdESzJfem5RcmlpT2lHYUtVNkE5T3hLWVlqX0hJcGtCZk9yMlZWTFYyNDJRNGdMYTZsVlBRcTMzd1JnaVU5Ujc5UHJmMl9jaEdyWTh3b1JkdWJuNTczZ3JXc0o5Wi1qQTFmNWN4Rnc4dVotMTNxaVU5VGRtQdIBkgFBVV95cUxPMmJmM2p3ZzdCN3VyRUhxb2lPQURUSl94eHNaQzZTU3FyNHJtZUU2TlJOMzB5UHdFTmg2WmRPcjJNMDQ2M05vUy1kSGp0LVBuMVZOdTZGVUM2WklxaElyOW5yX01TaDdhZDhfM3FRLWN5aTZvR2dlNXFORFVHMzBiVDFGdldqVHZvWUpSODJCMkxqUQ?oc=5",
+          "published": "Fri, 09 Oct 2026 12:34:39 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFJRbWdlUG5RTWVPUnZiUHdESzJfem5RcmlpT2lHYUtVNkE5T3hLWVlqX0hJcGtCZk9yMlZWTFYyNDJRNGdMYTZsVlBRcTMzd1JnaVU5Ujc5UHJmMl9jaEdyWTh3b1JkdWJuNTczZ3JXc0o5Wi1qQTFmNWN4Rnc4dVotMTNxaVU5VGRtQdIBkgFBVV95cUxPMmJmM2p3ZzdCN3VyRUhxb2lPQURUSl94eHNaQzZTU3FyNHJtZUU2TlJOMzB5UHdFTmg2WmRPcjJNMDQ2M05vUy1kSGp0LVBuMVZOdTZGVUM2WklxaElyOW5yX01TaDdhZDhfM3FRLWN5aTZvR2dlNXFORFVHMzBiVDFGdldqVHZvWUpSODJCMkxqUQ?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "Google Pixel 11 Pro XL",
+      "region": "India",
+      "geo": "IN",
+      "traffic": null,
+      "published": "Wed, 07 Oct 2026 11:55:00 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IUW1ielRXeDlyNG9FaERUMzZXUWszOHpMV1JtYWFHRnUxVXlybEdvRVRDMkdzMzdoSUlLcjlUSGp0Qnd2LXZCemZZdlVhMEdZMl9ibHgtUmNCNzJOelFTRW8tUGRwSFcxam5QT1BROGpHel9BemQwWGZn0gGHAUFVX3lxTE9PNVl4aElqTHVvMjF5cGl6ajVhVGdxQjNBR1JvU1F6V3lGREdGb0VkNGd2TnJZb0tsYnlSX1Nfc0NaQkxhUnZodEVkbmU4REVHb2l5SUVrdUdvQ2JPdmg1eDNkWU0yNjJvd3pQay1RYi1KNlVIZDU0OFRnNmt3SktSeC16NzZTQQ?oc=5",
+      "news": [
+        {
+          "title": "Google Pixel 11 Pro XL - Analytics Insight",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IUW1ielRXeDlyNG9FaERUMzZXUWszOHpMV1JtYWFHRnUxVXlybEdvRVRDMkdzMzdoSUlLcjlUSGp0Qnd2LXZCemZZdlVhMEdZMl9ibHgtUmNCNzJOelFTRW8tUGRwSFcxam5QT1BROGpHel9BemQwWGZn0gGHAUFVX3lxTE9PNVl4aElqTHVvMjF5cGl6ajVhVGdxQjNBR1JvU1F6V3lGREdGb0VkNGd2TnJZb0tsYnlSX1Nfc0NaQkxhUnZodEVkbmU4REVHb2l5SUVrdUdvQ2JPdmg1eDNkWU0yNjJvd3pQay1RYi1KNlVIZDU0OFRnNmt3SktSeC16NzZTQQ?oc=5",
+          "published": "Wed, 07 Oct 2026 11:55:00 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IUW1ielRXeDlyNG9FaERUMzZXUWszOHpMV1JtYWFHRnUxVXlybEdvRVRDMkdzMzdoSUlLcjlUSGp0Qnd2LXZCemZZdlVhMEdZMl9ibHgtUmNCNzJOelFTRW8tUGRwSFcxam5QT1BROGpHel9BemQwWGZn0gGHAUFVX3lxTE9PNVl4aElqTHVvMjF5cGl6ajVhVGdxQjNBR1JvU1F6V3lGREdGb0VkNGd2TnJZb0tsYnlSX1Nfc0NaQkxhUnZodEVkbmU4REVHb2l5SUVrdUdvQ2JPdmg1eDNkWU0yNjJvd3pQay1RYi1KNlVIZDU0OFRnNmt3SktSeC16NzZTQQ?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "OnePlus 16 Launches in China",
+      "region": "India",
+      "geo": "IN",
+      "traffic": null,
+      "published": "Mon, 12 Oct 2026 19:02:08 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODY1OTdyUEdETlFNcURCZ1hLUTl0Ri1IVEdKcWduMHVybEdBYW5TSF9zcjgwQUZBcTFFZWk2NlNfdEQxaDlIaHgtM0NtWm5RUVlnT3JmeU5CWTFFUEJ0SWJENDdVTDdiLTVvMGFQeXFKemhKVUlzandXVkpiT2tUOG1HOHVxNjg?oc=5",
+      "news": [
+        {
+          "title": "OnePlus 16 Launches in China With a 9,000mAh Battery - Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODY1OTdyUEdETlFNcURCZ1hLUTl0Ri1IVEdKcWduMHVybEdBYW5TSF9zcjgwQUZBcTFFZWk2NlNfdEQxaDlIaHgtM0NtWm5RUVlnT3JmeU5CWTFFUEJ0SWJENDdVTDdiLTVvMGFQeXFKemhKVUlzandXVkpiT2tUOG1HOHVxNjg?oc=5",
+          "published": "Mon, 12 Oct 2026 19:02:08 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODY1OTdyUEdETlFNcURCZ1hLUTl0Ri1IVEdKcWduMHVybEdBYW5TSF9zcjgwQUZBcTFFZWk2NlNfdEQxaDlIaHgtM0NtWm5RUVlnT3JmeU5CWTFFUEJ0SWJENDdVTDdiLTVvMGFQeXFKemhKVUlzandXVkpiT2tUOG1HOHVxNjg?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "iPhone 18 Pro Max",
+      "region": "India",
+      "geo": "IN",
+      "traffic": null,
+      "published": "Wed, 07 Oct 2026 13:00:00 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCYW1MeFBkcFhNRVZ1Znlwb1BJTUFIZk91Si1ObF9PbTJGRTV3Vmh5S1ZPOS1sRmlZVm5CcXB3SXM4TXdUZkx4cUpfNFhIZFppYlVzV0ZFVFcxQi1aWHUzLUdKcTVreXlyZG95ZkVFQlZnOW_SAYABQVVfeXFMTjUtUy1yblNJWk91N3d2OWJBQ2NOd1VuMC1URndncy11Y2dfX2FGQ3BGTE9WTEFrX3dRZC1YLWhhLW95V01sZFhvMG93eHdiemtTQm1ERmFMQ2pqLVJGRUVEbEtjWUE0eDNkRzMtZlpEOGg4T3A5cG5uWVI1RllaRXI?oc=5",
+      "news": [
+        {
+          "title": "iPhone 18 Pro Max - Analytics Insight",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCYW1MeFBkcFhNRVZ1Znlwb1BJTUFIZk91Si1ObF9PbTJGRTV3Vmh5S1ZPOS1sRmlZVm5CcXB3SXM4TXdUZkx4cUpfNFhIZFppYlVzV0ZFVFcxQi1aWHUzLUdKcTVreXlyZG95ZkVFQlZnOW_SAYABQVVfeXFMTjUtUy1yblNJWk91N3d2OWJBQ2NOd1VuMC1URndncy11Y2dfX2FGQ3BGTE9WTEFrX3dRZC1YLWhhLW95V01sZFhvMG93eHdiemtTQm1ERmFMQ2pqLVJGRUVEbEtjWUE0eDNkRzMtZlpEOGg4T3A5cG5uWVI1RllaRXI?oc=5",
+          "published": "Wed, 07 Oct 2026 13:00:00 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCYW1MeFBkcFhNRVZ1Znlwb1BJTUFIZk91Si1ObF9PbTJGRTV3Vmh5S1ZPOS1sRmlZVm5CcXB3SXM4TXdUZkx4cUpfNFhIZFppYlVzV0ZFVFcxQi1aWHUzLUdKcTVreXlyZG95ZkVFQlZnOW_SAYABQVVfeXFMTjUtUy1yblNJWk91N3d2OWJBQ2NOd1VuMC1URndncy11Y2dfX2FGQ3BGTE9WTEFrX3dRZC1YLWhhLW95V01sZFhvMG93eHdiemtTQm1ERmFMQ2pqLVJGRUVEbEtjWUE0eDNkRzMtZlpEOGg4T3A5cG5uWVI1RllaRXI?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "iPhone 18 Pro Owners Report",
+      "region": "India",
+      "geo": "IN",
+      "traffic": null,
+      "published": "Mon, 12 Oct 2026 15:45:46 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2tKWHpEakV0bDh6R2o0LWpwakxWeWdVa2JVRnI0Yk9aZV9Jamd5M1FyeGFOVXZuZzJQS0NJT29XQWNJSzlBdnktbDNsVUdZTTRQQWsyTVo5WThLMFFLQmxMNnVMRG5QLUJxbzNKekhtUVE2VHctM0NLTW10Z1R2TGNHdFRMeWRKU3AxaXRTUmhNN3VFTE4xbi0wUQ?oc=5",
+      "news": [
+        {
+          "title": "iPhone 18 Pro Owners Report Camera Discoloration, Apple Stays Quiet - Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2tKWHpEakV0bDh6R2o0LWpwakxWeWdVa2JVRnI0Yk9aZV9Jamd5M1FyeGFOVXZuZzJQS0NJT29XQWNJSzlBdnktbDNsVUdZTTRQQWsyTVo5WThLMFFLQmxMNnVMRG5QLUJxbzNKekhtUVE2VHctM0NLTW10Z1R2TGNHdFRMeWRKU3AxaXRTUmhNN3VFTE4xbi0wUQ?oc=5",
+          "published": "Mon, 12 Oct 2026 15:45:46 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2tKWHpEakV0bDh6R2o0LWpwakxWeWdVa2JVRnI0Yk9aZV9Jamd5M1FyeGFOVXZuZzJQS0NJT29XQWNJSzlBdnktbDNsVUdZTTRQQWsyTVo5WThLMFFLQmxMNnVMRG5QLUJxbzNKekhtUVE2VHctM0NLTW10Z1R2TGNHdFRMeWRKU3AxaXRTUmhNN3VFTE4xbi0wUQ?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "iPhone 18 Pro Demand Is",
+      "region": "Australia",
+      "geo": "AU",
+      "traffic": null,
+      "published": "Tue, 13 Oct 2026 15:44:50 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3RoZjEzNk05RzRYXzZpS2V4LXQyS3hmUDYwR3lQSV9McVVXbUZvRG1DSTVYV2NDdUJNWjVGUEtsRHVFVWlwbkY3RDBYU2hjNDV6a1BXRjRFdlZxWlA1d1VsaGRlZW1GSnltck1lTmVPQUo2MFYzWXFPNC1scHFxUXJXTVpranFCSzZQVy1CZXY1UGp0aWRkaGxzTXgtU1NNT3Fv?oc=5",
+      "news": [
+        {
+          "title": "JP Morgan: iPhone 18 Pro Demand Is Stronger Than Last Year’s iPhone 17 Pro - Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3RoZjEzNk05RzRYXzZpS2V4LXQyS3hmUDYwR3lQSV9McVVXbUZvRG1DSTVYV2NDdUJNWjVGUEtsRHVFVWlwbkY3RDBYU2hjNDV6a1BXRjRFdlZxWlA1d1VsaGRlZW1GSnltck1lTmVPQUo2MFYzWXFPNC1scHFxUXJXTVpranFCSzZQVy1CZXY1UGp0aWRkaGxzTXgtU1NNT3Fv?oc=5",
+          "published": "Tue, 13 Oct 2026 15:44:50 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3RoZjEzNk05RzRYXzZpS2V4LXQyS3hmUDYwR3lQSV9McVVXbUZvRG1DSTVYV2NDdUJNWjVGUEtsRHVFVWlwbkY3RDBYU2hjNDV6a1BXRjRFdlZxWlA1d1VsaGRlZW1GSnltck1lTmVPQUo2MFYzWXFPNC1scHFxUXJXTVpranFCSzZQVy1CZXY1UGp0aWRkaGxzTXgtU1NNT3Fv?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "iPhone 18 Pro Owners Report",
+      "region": "Australia",
+      "geo": "AU",
+      "traffic": null,
+      "published": "Mon, 12 Oct 2026 15:45:46 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2tKWHpEakV0bDh6R2o0LWpwakxWeWdVa2JVRnI0Yk9aZV9Jamd5M1FyeGFOVXZuZzJQS0NJT29XQWNJSzlBdnktbDNsVUdZTTRQQWsyTVo5WThLMFFLQmxMNnVMRG5QLUJxbzNKekhtUVE2VHctM0NLTW10Z1R2TGNHdFRMeWRKU3AxaXRTUmhNN3VFTE4xbi0wUQ?oc=5",
+      "news": [
+        {
+          "title": "iPhone 18 Pro Owners Report Camera Discoloration, Apple Stays Quiet - Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2tKWHpEakV0bDh6R2o0LWpwakxWeWdVa2JVRnI0Yk9aZV9Jamd5M1FyeGFOVXZuZzJQS0NJT29XQWNJSzlBdnktbDNsVUdZTTRQQWsyTVo5WThLMFFLQmxMNnVMRG5QLUJxbzNKekhtUVE2VHctM0NLTW10Z1R2TGNHdFRMeWRKU3AxaXRTUmhNN3VFTE4xbi0wUQ?oc=5",
+          "published": "Mon, 12 Oct 2026 15:45:46 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2tKWHpEakV0bDh6R2o0LWpwakxWeWdVa2JVRnI0Yk9aZV9Jamd5M1FyeGFOVXZuZzJQS0NJT29XQWNJSzlBdnktbDNsVUdZTTRQQWsyTVo5WThLMFFLQmxMNnVMRG5QLUJxbzNKekhtUVE2VHctM0NLTW10Z1R2TGNHdFRMeWRKU3AxaXRTUmhNN3VFTE4xbi0wUQ?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    },
+    {
+      "name": "Apple Intelligence Models From macOS",
+      "region": "Australia",
+      "geo": "AU",
+      "traffic": null,
+      "published": "Tue, 13 Oct 2026 16:55:59 GMT",
+      "source": "Google News RSS",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGppQzJjWjZuWjZuWndjSjU5WVVtWVBMNi1HOXUxZXF0WXlDWEp6WVJJTktCcm1paVFZT2FvUFFLejZRSGZ2ek1DRlhCNnEzaHhLTkZ2TXJNaGtfRFdOYi1jdkltU1Q3dWkwZ3I2cWFUSzRveHd5RjFtQk92UTQxM1BOTVZZSXZhNUdpNmVVSEwyeFdjVUd3VVlLYw?oc=5",
+      "news": [
+        {
+          "title": "A Third-Party Tool Removes Apple Intelligence Models From macOS 27 - Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGppQzJjWjZuWjZuWndjSjU5WVVtWVBMNi1HOXUxZXF0WXlDWEp6WVJJTktCcm1paVFZT2FvUFFLejZRSGZ2ek1DRlhCNnEzaHhLTkZ2TXJNaGtfRFdOYi1jdkltU1Q3dWkwZ3I2cWFUSzRveHd5RjFtQk92UTQxM1BOTVZZSXZhNUdpNmVVSEwyeFdjVUd3VVlLYw?oc=5",
+          "published": "Tue, 13 Oct 2026 16:55:59 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google News",
+          "type": "model_mention",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGppQzJjWjZuWjZuWndjSjU5WVVtWVBMNi1HOXUxZXF0WXlDWEp6WVJJTktCcm1paVFZT2FvUFFLejZRSGZ2ek1DRlhCNnEzaHhLTkZ2TXJNaGtfRFdOYi1jdkltU1Q3dWkwZ3I2cWFUSzRveHd5RjFtQk92UTQxM1BOTVZZSXZhNUdpNmVVSEwyeFdjVUd3VVlLYw?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    }
+  ],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "reachable",
@@ -10,5 +361,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
+  "note": "Heuristic product candidates from public trending searches; news/video mentions are not sales or virality scores. Not all platforms are connected."
 }

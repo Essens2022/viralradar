@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-10-13T17:46:33.914591+00:00",
+  "items": [],
+  "sourceStatus": {
+    "Google Trends": "live",
+    "Google News": "live",
+    "YouTube": "optional_api_key",
+    "TikTok": "not_connected",
+    "Instagram": "not_connected",
+    "Facebook": "not_connected",
+    "Reddit": "not_connected"
+  },
+  "note": "No verified product candidates yet"
+}

@@ -11,8 +11,8 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 REGIONS={"Italia":"IT","Regatul Unit":"GB","Germania":"DE","Franța":"FR","Spania":"ES","Polonia":"PL","SUA":"US","Canada":"CA","România":"RO"}
-PRODUCT_WORDS=re.compile(r"(?i)\\b(projector|proiettore|proiector|air fryer|friggitrice|aspirapolvere|vacuum|robot|lampada|lamp|lampă|massager|massaggiatore|massage gun|smartwatch|auricolari|earbuds|headphones|cuffie|power bank|caricatore|charger|speaker|altoparlante|blender|frullatore|borraccia|bottle|sticlă|keyboard|tastiera|mouse|camera|fotocamera|webcam|drone|tablet|console|stampante|printer|monitor|diffusore|diffuser|umidificatore|humidifier|organizer|organizzatore|organisateur|portable fan|ventilatore|ventilator|led strip|striscia led|smart ring|anello smart|fitness tracker|thermos|termometro|thermometer|mini pc|dashcam|car vacuum|solar light|luce solare|lumină solară)\\b")
-EXCLUDE=re.compile(r"(?i)\\b(election|elezioni|president|presidente|partita|football|calcio|earthquake|terremoto|meteo|weather|lottery|lotto|war|guerra|celebrity|actor|attrice|movie|film|serie tv|concert|festival|politic|politica)\\b")
+PRODUCT_WORDS=re.compile(r"(?i)\b(projector|proiettore|proiector|air fryer|friggitrice|aspirapolvere|vacuum|robot|lampada|lamp|lampă|massager|massaggiatore|massage gun|smartwatch|auricolari|earbuds|headphones|cuffie|power bank|caricatore|charger|speaker|altoparlante|blender|frullatore|borraccia|bottle|sticlă|keyboard|tastiera|mouse|camera|fotocamera|webcam|drone|tablet|console|stampante|printer|monitor|diffusore|diffuser|umidificatore|humidifier|organizer|organizzatore|organisateur|portable fan|ventilatore|ventilator|led strip|striscia led|smart ring|anello smart|fitness tracker|thermos|termometro|thermometer|mini pc|dashcam|car vacuum|solar light|luce solare|lumină solară)\b")
+EXCLUDE=re.compile(r"(?i)\b(election|elezioni|president|presidente|partita|football|calcio|earthquake|terremoto|meteo|weather|lottery|lotto|war|guerra|celebrity|actor|attrice|movie|film|serie tv|concert|festival|politic|politica)\b")
 HEADERS={"User-Agent":"ViralRadar/1.1 (public RSS aggregation; contact via repository)"}
 
 def fetch(url):

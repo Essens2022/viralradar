@@ -6,6 +6,7 @@ on:
       - 'scripts/fetch_trends.py'
       - '.github/workflows/trends.yml'
       - 'scripts/fetch_offers.py'
+      - 'scripts/fetch_catalogs.py'
   schedule:
     - cron: '23 */2 * * *'
 permissions:
@@ -25,12 +26,16 @@ jobs:
         env:
           GOOGLE_SEARCH_API_KEY: ${{ secrets.GOOGLE_SEARCH_API_KEY }}
           GOOGLE_SEARCH_ENGINE_ID: ${{ secrets.GOOGLE_SEARCH_ENGINE_ID }}
+      - run: python scripts/fetch_catalogs.py
+        env:
+          VIRALRADAR_STORES: ${{ vars.VIRALRADAR_STORES }}
       - name: Commit verified feed
         run: |
           git config user.name "viralradar-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- trends.json
           if [ -f offers.json ]; then git add -- offers.json; fi
+          if [ -f catalog_offers.json ]; then git add -- catalog_offers.json; fi
           if ! git diff --cached --quiet; then
             git commit -m "Refresh live Google Trends feed"
             git push

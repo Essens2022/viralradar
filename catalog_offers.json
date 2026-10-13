@@ -1,0 +1,10 @@
+{
+  "updatedAt": "2026-10-13T23:46:10.637571+00:00",
+  "source": "Public retailer product catalogs",
+  "offers": {},
+  "sourceStatus": {
+    "Shopify public catalog": "not_configured",
+    "WooCommerce Store API": "not_configured"
+  },
+  "note": "Merchant prices only, EUR. Store domains must be configured; matches are title heuristics, not confirmed GTIN matches. Shipping not included."
+}

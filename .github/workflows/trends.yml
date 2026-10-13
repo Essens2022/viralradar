@@ -7,7 +7,7 @@ on:
       - '.github/workflows/trends.yml'
       - 'scripts/fetch_offers.py'
   schedule:
-    - cron: '23 */6 * * *'
+    - cron: '23 */2 * * *'
 permissions:
   contents: write
 jobs:

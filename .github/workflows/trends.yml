@@ -29,7 +29,8 @@ jobs:
         run: |
           git config user.name "viralradar-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A -- trends.json offers.json
+          git add -- trends.json
+          if [ -f offers.json ]; then git add -- offers.json; fi
           if ! git diff --cached --quiet; then
             git commit -m "Refresh live Google Trends feed"
             git push

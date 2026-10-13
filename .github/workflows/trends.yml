@@ -1,6 +1,10 @@
 name: Refresh live trends
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/fetch_trends.py'
+      - '.github/workflows/trends.yml'
   schedule:
     - cron: '23 */6 * * *'
 permissions:

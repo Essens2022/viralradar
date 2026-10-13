@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:34:43.158756+00:00",
+  "updatedAt": "2026-10-13T20:51:52.779193+00:00",
   "items": [
     {
       "name": "Dreame X60 Pro Ultra Complete",
@@ -272,31 +272,6 @@
           "source": "Google News",
           "type": "model_mention",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWQ2Q2VHS3pSZ3BaamlqVml5NzFHSkN6aFYzV2VCMHppaXBmT20tQ0dUaHBrMXB6RTRNZU1WeE5ZajFRcEpBVmpvd0VPek5ZcDd4MXFicmViXzVRbGVwZHpqYkFxVEJMMjN5ZlM1WVByOHJCeWI4WlBOeTVFc3dWaEtiOC0zNnNwakRxT2ZyeGYxa0xVdk1GMkg3dmM4SzVaYUl4TDY5X2RyR1VGVHg0NGFCNUhmSlnSAbcBQVVfeXFMTzFkNkNlR0t6UmdwWmppalZpeTcxR0pDemhWM1dlQjB6aWlwZk9tLUNHVGhwazFwekU0TWVNVnhOWWoxUXBKQVZqb3dFT3pOWXA3eDFxYnJlYl81UWxlcGR6amJBcVRCTDIzeWZTNVlQcjhyQnliOFpQTnk1RXN3VmhLYjgtMzZzcGpEcU9mcnhmMWtMVXZNRjJIN3ZjOEs1WmFJeEw2OV9kckdVRlR4NDRhQjVIZkpZ?oc=5"
-        }
-      ],
-      "productStatus": "candidate_unverified"
-    },
-    {
-      "name": "DJI Romo P2 lässt Konkurrenz",
-      "region": "Germania",
-      "geo": "DE",
-      "traffic": null,
-      "published": "Sat, 10 Oct 2026 05:12:11 GMT",
-      "source": "Google News RSS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXlKT3NDbWJDRzBBRFBGaFlOTEJjT2c4UHRuNExTbzVpazE0eGVQY1ZMZTZYZVNJNEIxM0hoOWNjNVRRSXJqOTNEVmZEQ1NtMFVxME5jcXl6Unc0SklVbmFWWnlFN2tuTjNlTHdCSW5iREdSdzdTR3l3a21rSXA2UzU3TndhR2FHekY1c0xuazVCSWJ5T0lvTWk4T3REZjhzdDNGcg?oc=5",
-      "news": [
-        {
-          "title": "Saugroboter im Test: DJI Romo P2 lässt Konkurrenz hinter sich - IMTEST",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXlKT3NDbWJDRzBBRFBGaFlOTEJjT2c4UHRuNExTbzVpazE0eGVQY1ZMZTZYZVNJNEIxM0hoOWNjNVRRSXJqOTNEVmZEQ1NtMFVxME5jcXl6Unc0SklVbmFWWnlFN2tuTjNlTHdCSW5iREdSdzdTR3l3a21rSXA2UzU3TndhR2FHekY1c0xuazVCSWJ5T0lvTWk4T3REZjhzdDNGcg?oc=5",
-          "published": "Sat, 10 Oct 2026 05:12:11 GMT"
-        }
-      ],
-      "videos": [],
-      "evidence": [
-        {
-          "source": "Google News",
-          "type": "model_mention",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXlKT3NDbWJDRzBBRFBGaFlOTEJjT2c4UHRuNExTbzVpazE0eGVQY1ZMZTZYZVNJNEIxM0hoOWNjNVRRSXJqOTNEVmZEQ1NtMFVxME5jcXl6Unc0SklVbmFWWnlFN2tuTjNlTHdCSW5iREdSdzdTR3l3a21rSXA2UzU3TndhR2FHekY1c0xuazVCSWJ5T0lvTWk4T3REZjhzdDNGcg?oc=5"
         }
       ],
       "productStatus": "candidate_unverified"

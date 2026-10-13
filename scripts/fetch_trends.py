@@ -88,9 +88,9 @@ def main():
             "Brazilia":("BR","pt","BR:pt","novo smartphone gadget modelo análise"),
             "Australia":("AU","en","AU:en","new gadget model review")
         }
-        brand=re.compile(r"(?i)\\b(apple|iphone|ipad|samsung|galaxy|motorola|razr|google pixel|xiaomi|redmi|poco|oneplus|nothing phone|sony|bose|jbl|dyson|anker|ecovacs|roborock|dreame|garmin|fitbit|huawei|honor|lenovo|asus|acer|dji|gopro|meta quest|nintendo|playstation|xbox|kindle|homepod|airpods)\\b")
-        model=re.compile(r"(?i)\\b(?:[a-z]{1,5}[- ]?\\d{1,4}[a-z]{0,4}|\\d{1,3}(?:\\s?(?:pro|max|ultra|plus|mini|fold|lite))?|(?:pro|max|ultra|fold|mini|plus|air|edge|razr))\\b")
-        editorial=re.compile(r"(?i)\\b(miglior|migliori|best|top \\d|guida|guide|lista|list|gadgets? that|prodotti|products|comprare|buying|portfolio|event|livestream|trappola|confronto|comparison)\\b")
+        brand=re.compile(r"(?i)\b(apple|iphone|ipad|samsung|galaxy|motorola|razr|google pixel|xiaomi|redmi|poco|oneplus|nothing phone|sony|bose|jbl|dyson|anker|ecovacs|roborock|dreame|garmin|fitbit|huawei|honor|lenovo|asus|acer|dji|gopro|meta quest|nintendo|playstation|xbox|kindle|homepod|airpods)\b")
+        model=re.compile(r"(?i)\b(?:[a-z]{1,5}[- ]?\d{1,4}[a-z]{0,4}|\d{1,3}(?:\s?(?:pro|max|ultra|plus|mini|fold|lite))?|(?:pro|max|ultra|fold|mini|plus|air|edge|razr))\b")
+        editorial=re.compile(r"(?i)\b(miglior|migliori|best|top \d|guida|guide|lista|list|gadgets? that|prodotti|products|comprare|buying|portfolio|event|livestream|trappola|confronto|comparison)\b")
         for region,(geo,lang,ceid,query) in queries.items():
             url="https://news.google.com/rss/search?"+urllib.parse.urlencode({"q":query+" when:7d","hl":lang,"gl":geo,"ceid":ceid})
             try:

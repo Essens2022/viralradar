@@ -71,6 +71,43 @@ def main():
                   [{"source":"YouTube","type":"video_mention","url":v["url"]} for v in videos],
                   "productStatus":"candidate_unverified"}
             items.append(item)
+    # Fallback: discover product-focused news when broad trending topics have no products.
+    # These are evidence-backed discovery candidates, NOT verified viral sales.
+    if not items:
+        queries={
+            "Italia":('IT','it','IT:it','nuovo gadget tecnologia prodotto recensione'),
+            "Regatul Unit":('GB','en','GB:en','new gadget product launch review'),
+            "Germania":('DE','de','DE:de','neues gadget produkt test'),
+            "Franța":('FR','fr','FR:fr','nouveau gadget produit test'),
+            "Spania":('ES','es','ES:es','nuevo gadget producto reseña'),
+            "SUA":('US','en','US:en','trending gadget product review')
+        }
+        for region,(geo,lang,ceid,query) in queries.items():
+            url="https://news.google.com/rss/search?"+urllib.parse.urlencode({"q":query+" when:7d","hl":lang,"gl":geo,"ceid":ceid})
+            try:
+                entries=rss(url)[:15]
+            except Exception as exc:
+                print("Fallback discovery",region,type(exc).__name__,str(exc)[:120])
+                continue
+            for entry in entries:
+                raw=(entry.findtext("title") or "").strip()
+                headline=raw.rsplit(" - ",1)[0].strip()
+                if len(headline)<12 or EXCLUDE.search(headline):
+                    continue
+                link=(entry.findtext("link") or "").strip()
+                if not link:continue
+                items.append({"name":headline,"region":region,"geo":geo,
+                    "traffic":None,"published":entry.findtext("pubDate") or "",
+                    "source":"Google News RSS","url":link,
+                    "news":[{"title":raw,"url":link,"published":entry.findtext("pubDate") or ""}],
+                    "videos":[],"evidence":[{"source":"Google News","type":"product_news_candidate","url":link}],
+                    "productStatus":"candidate_unverified"})
+        # Remove repeated headlines without making up ranking or demand.
+        unique=set();dedup=[]
+        for item in items:
+            key=(item["geo"],item["name"].lower())
+            if key not in unique:unique.add(key);dedup.append(item)
+        items=dedup
     # Keep older valid feed on network failures, rather than publishing invented products.
     if not items:
         print("No product candidates found; retaining previous feed")

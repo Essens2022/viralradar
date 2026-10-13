@@ -1,4 +1,4 @@
-"""ViralRadar discovery: live Google Trends + Google News, optional YouTube API.
+"""ViralRadar discovery: live Google Trends, optional supporting news and YouTube evidence.
 Only publish observed evidence. No invented product scores or social metrics.
 """
 import datetime
@@ -48,7 +48,7 @@ def youtube_mentions(term):
 def main():
     now=datetime.datetime.now(datetime.timezone.utc)
     items=[]
-    source_status={"Google Trends":"pending","Google News":"pending","YouTube":"optional_api_key","TikTok":"not_connected","Instagram":"not_connected","Facebook":"not_connected","Reddit":"not_connected"}
+    source_status={"Google Trends":"pending","Google News":"supporting_evidence_only","YouTube":"optional_api_key","TikTok":"not_connected","Instagram":"not_connected","Facebook":"not_connected","Reddit":"not_connected"}
     for region,geo in REGIONS.items():
         try:
             entries=rss("https://trends.google.com/trending/rss?geo="+geo)
@@ -79,67 +79,23 @@ def main():
                   [{"source":"YouTube","type":"video_mention","url":v["url"]} for v in videos],
                   "productStatus":"candidate_unverified"}
             items.append(item)
-    # News headlines are not products. Only accept a clearly named model in a
-    # product-focused headline, and mark it as unverified candidate.
-    if not items:
-        # Diversify evidence gathering across consumer categories and markets.
-        queries={
-            "Italia":("IT","it","IT:it",["nuovo aspirapolvere robot modello","nuovo accessorio auto modello","nuovo dispositivo cucina modello","nuovo gadget animali modello"]),
-            "Regatul Unit":("GB","en","GB:en",["new home cleaning device model","new pet gadget model","new car accessory model","new kitchen appliance model"]),
-            "Germania":("DE","de","DE:de",["neuer Saugroboter Modell","neues Autozubehör Modell","neues Küchengerät Modell","neues Haustier Gadget Modell"]),
-            "Franța":("FR","fr","FR:fr",["nouvel aspirateur robot modèle","nouvel accessoire voiture modèle","nouvel appareil cuisine modèle","nouvel accessoire animaux modèle"]),
-            "Spania":("ES","es","ES:es",["nuevo robot aspirador modelo","nuevo accesorio coche modelo","nuevo aparato cocina modelo","nuevo accesorio mascotas modelo"]),
-            "SUA":("US","en","US:en",["new home gadget model","new car accessory model","new pet device model","new kitchen appliance model"]),
-            "Japonia":("JP","ja","JP:ja",["新製品 掃除ロボット","新製品 キッチン家電","新製品 ペット用品"]),
-            "India":("IN","en","IN:en",["new home appliance model","new automotive accessory model","new kitchen gadget model"]),
-            "Brazilia":("BR","pt","BR:pt",["novo aspirador robô modelo","novo acessório automotivo modelo","novo aparelho cozinha modelo"]),
-            "Australia":("AU","en","AU:en",["new home cleaning product model","new pet accessory model","new kitchen appliance model"])
-        }
-        brand=re.compile(r"(?i)\b(apple|iphone|ipad|samsung|galaxy|motorola|razr|google pixel|xiaomi|redmi|poco|oneplus|nothing phone|sony|bose|jbl|dyson|anker|ecovacs|roborock|dreame|garmin|fitbit|huawei|honor|lenovo|asus|acer|dji|gopro|meta quest|nintendo|playstation|xbox|kindle|homepod|airpods)\b")
-        model=re.compile(r"(?i)\b(?:[a-z]{1,5}[- ]?\d{1,4}[a-z]{0,4}|\d{1,3}(?:\s?(?:pro|max|ultra|plus|mini|fold|lite))?|(?:pro|max|ultra|fold|mini|plus|air|edge|razr))\b")
-        editorial=re.compile(r"(?i)\b(miglior|migliori|best|top \d|guida|guide|lista|list|gadgets? that|prodotti|products|comprare|buying|portfolio|event|livestream|trappola|confronto|comparison)\b")
-        for region,(geo,lang,ceid,terms) in queries.items():
-            entries=[]
-            for query in terms:
-                url="https://news.google.com/rss/search?"+urllib.parse.urlencode({"q":query+" when:7d","hl":lang,"gl":geo,"ceid":ceid})
-                try:
-                    entries.extend(rss(url)[:12])
-                    source_status["Google News"]="reachable"
-                except Exception as exc:
-                    print("Fallback discovery",region,type(exc).__name__,str(exc)[:120])
-            for entry in entries:
-                raw=(entry.findtext("title") or "").strip()
-                headline=raw.rsplit(" - ",1)[0].strip()
-                if not headline or EXCLUDE.search(headline) or editorial.search(headline):
-                    continue
-                match=brand.search(headline)
-                if not match or not model.search(headline[match.end():match.end()+38]):
-                    continue
-                # Product name is a short model phrase, not the entire article headline.
-                words=headline[match.start():].split()
-                product_name=" ".join(words[:min(5,len(words))]).split(":")[0].strip(" ,:;-")
-                if len(product_name)>75:continue
-                link=(entry.findtext("link") or "").strip()
-                if not link:continue
-                items.append({"name":product_name,"region":region,"geo":geo,
-                    "traffic":None,"published":entry.findtext("pubDate") or "",
-                    "source":"Google News RSS","url":link,
-                    "news":[{"title":raw,"url":link,"published":entry.findtext("pubDate") or ""}],
-                    "videos":[],"evidence":[{"source":"Google News","type":"model_mention","url":link}],
-                    "productStatus":"candidate_unverified"})
-        unique=set();dedup=[]
-        for item in items:
-            key=(item["geo"],item["name"].lower())
-            if key not in unique:unique.add(key);dedup.append(item)
-        items=dedup
+    # Commercial discovery only. Never convert editorial headlines into products.
+    # A trend query alone is not a verified listing; merchant offers must be joined
+    # by the storefront collectors before displaying commercial opportunities.
+    unique=set();dedup=[]
+    for item in items:
+        key=(item["geo"],item["name"].casefold())
+        if key not in unique:
+            unique.add(key);dedup.append(item)
+    items=dedup
     # Keep older valid feed on network failures, rather than publishing invented products.
     if not items:
         print("No product candidates found; retaining previous feed")
         Path("trends.json").write_text(json.dumps({"updatedAt":now.isoformat(),"items":[],"sourceStatus":source_status,"note":"No product candidates found in accessible feeds; check GitHub Actions logs and source availability."},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
         return
-    items.sort(key=lambda x:(len(x["videos"])>0,len(x["news"])>0),reverse=True)
+    items.sort(key=lambda x:(bool(x.get("traffic")),len(x["videos"]),len(x["news"])),reverse=True)
     payload={"updatedAt":now.isoformat(),"items":items,"sourceStatus":source_status,
-             "note":"Heuristic product candidates from public trending searches; news/video mentions are not sales or virality scores. Not all platforms are connected."}
+             "note":"Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."}
     Path("trends.json").write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("Published",len(items),"observed product candidates")
 

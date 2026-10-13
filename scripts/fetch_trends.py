@@ -72,21 +72,24 @@ def main():
                   [{"source":"YouTube","type":"video_mention","url":v["url"]} for v in videos],
                   "productStatus":"candidate_unverified"}
             items.append(item)
-    # Fallback: discover product-focused news when broad trending topics have no products.
-    # These are evidence-backed discovery candidates, NOT verified viral sales.
+    # News headlines are not products. Only accept a clearly named model in a
+    # product-focused headline, and mark it as unverified candidate.
     if not items:
         queries={
-            "Italia":('IT','it','IT:it','nuovo gadget tecnologia prodotto recensione'),
-            "Regatul Unit":('GB','en','GB:en','new gadget product launch review'),
-            "Germania":('DE','de','DE:de','neues gadget produkt test'),
-            "Franța":('FR','fr','FR:fr','nouveau gadget produit test'),
-            "Spania":('ES','es','ES:es','nuevo gadget producto reseña'),
-            "SUA":('US','en','US:en','trending gadget product review')
+            "Italia":("IT","it","IT:it","recensione nuovo smartphone gadget modello"),
+            "Regatul Unit":("GB","en","GB:en","new gadget device model review"),
+            "Germania":("DE","de","DE:de","neues smartphone gadget modell test"),
+            "Franța":("FR","fr","FR:fr","nouveau smartphone gadget modèle test"),
+            "Spania":("ES","es","ES:es","nuevo smartphone gadget modelo reseña"),
+            "SUA":("US","en","US:en","new gadget device model review")
         }
+        brand=re.compile(r"(?i)\\b(apple|iphone|ipad|samsung|galaxy|motorola|razr|google pixel|xiaomi|redmi|poco|oneplus|nothing phone|sony|bose|jbl|dyson|anker|ecovacs|roborock|dreame|garmin|fitbit|huawei|honor|lenovo|asus|acer|dji|gopro|meta quest|nintendo|playstation|xbox|kindle|homepod|airpods)\\b")
+        model=re.compile(r"(?i)\\b(?:[a-z]{1,5}[- ]?\\d{1,4}[a-z]{0,4}|\\d{1,3}(?:\\s?(?:pro|max|ultra|plus|mini|fold|lite))?|(?:pro|max|ultra|fold|mini|plus|air|edge|razr))\\b")
+        editorial=re.compile(r"(?i)\\b(miglior|migliori|best|top \\d|guida|guide|lista|list|gadgets? that|prodotti|products|comprare|buying|portfolio|event|livestream|trappola|confronto|comparison)\\b")
         for region,(geo,lang,ceid,query) in queries.items():
             url="https://news.google.com/rss/search?"+urllib.parse.urlencode({"q":query+" when:7d","hl":lang,"gl":geo,"ceid":ceid})
             try:
-                entries=rss(url)[:15]
+                entries=rss(url)[:20]
                 source_status["Google News"]="reachable"
             except Exception as exc:
                 print("Fallback discovery",region,type(exc).__name__,str(exc)[:120])
@@ -94,17 +97,23 @@ def main():
             for entry in entries:
                 raw=(entry.findtext("title") or "").strip()
                 headline=raw.rsplit(" - ",1)[0].strip()
-                if len(headline)<12 or EXCLUDE.search(headline):
+                if not headline or EXCLUDE.search(headline) or editorial.search(headline):
                     continue
+                match=brand.search(headline)
+                if not match or not model.search(headline[match.end():match.end()+38]):
+                    continue
+                # Product name is a short model phrase, not the entire article headline.
+                words=headline[match.start():].split()
+                product_name=" ".join(words[:min(5,len(words))]).split(":")[0].strip(" ,:;-")
+                if len(product_name)>75:continue
                 link=(entry.findtext("link") or "").strip()
                 if not link:continue
-                items.append({"name":headline,"region":region,"geo":geo,
+                items.append({"name":product_name,"region":region,"geo":geo,
                     "traffic":None,"published":entry.findtext("pubDate") or "",
                     "source":"Google News RSS","url":link,
                     "news":[{"title":raw,"url":link,"published":entry.findtext("pubDate") or ""}],
-                    "videos":[],"evidence":[{"source":"Google News","type":"product_news_candidate","url":link}],
+                    "videos":[],"evidence":[{"source":"Google News","type":"model_mention","url":link}],
                     "productStatus":"candidate_unverified"})
-        # Remove repeated headlines without making up ranking or demand.
         unique=set();dedup=[]
         for item in items:
             key=(item["geo"],item["name"].lower())

@@ -76,29 +76,31 @@ def main():
     # News headlines are not products. Only accept a clearly named model in a
     # product-focused headline, and mark it as unverified candidate.
     if not items:
+        # Diversify evidence gathering across consumer categories and markets.
         queries={
-            "Italia":("IT","it","IT:it","recensione nuovo smartphone gadget modello"),
-            "Regatul Unit":("GB","en","GB:en","new gadget device model review"),
-            "Germania":("DE","de","DE:de","neues smartphone gadget modell test"),
-            "Franța":("FR","fr","FR:fr","nouveau smartphone gadget modèle test"),
-            "Spania":("ES","es","ES:es","nuevo smartphone gadget modelo reseña"),
-            "SUA":("US","en","US:en","new gadget device model review"),
-            "Japonia":("JP","ja","JP:ja","新製品 ガジェット レビュー"),
-            "India":("IN","en","IN:en","new smartphone gadget model review"),
-            "Brazilia":("BR","pt","BR:pt","novo smartphone gadget modelo análise"),
-            "Australia":("AU","en","AU:en","new gadget model review")
+            "Italia":("IT","it","IT:it",["nuovo aspirapolvere robot modello","nuovo accessorio auto modello","nuovo dispositivo cucina modello","nuovo gadget animali modello"]),
+            "Regatul Unit":("GB","en","GB:en",["new home cleaning device model","new pet gadget model","new car accessory model","new kitchen appliance model"]),
+            "Germania":("DE","de","DE:de",["neuer Saugroboter Modell","neues Autozubehör Modell","neues Küchengerät Modell","neues Haustier Gadget Modell"]),
+            "Franța":("FR","fr","FR:fr",["nouvel aspirateur robot modèle","nouvel accessoire voiture modèle","nouvel appareil cuisine modèle","nouvel accessoire animaux modèle"]),
+            "Spania":("ES","es","ES:es",["nuevo robot aspirador modelo","nuevo accesorio coche modelo","nuevo aparato cocina modelo","nuevo accesorio mascotas modelo"]),
+            "SUA":("US","en","US:en",["new home gadget model","new car accessory model","new pet device model","new kitchen appliance model"]),
+            "Japonia":("JP","ja","JP:ja",["新製品 掃除ロボット","新製品 キッチン家電","新製品 ペット用品"]),
+            "India":("IN","en","IN:en",["new home appliance model","new automotive accessory model","new kitchen gadget model"]),
+            "Brazilia":("BR","pt","BR:pt",["novo aspirador robô modelo","novo acessório automotivo modelo","novo aparelho cozinha modelo"]),
+            "Australia":("AU","en","AU:en",["new home cleaning product model","new pet accessory model","new kitchen appliance model"])
         }
         brand=re.compile(r"(?i)\b(apple|iphone|ipad|samsung|galaxy|motorola|razr|google pixel|xiaomi|redmi|poco|oneplus|nothing phone|sony|bose|jbl|dyson|anker|ecovacs|roborock|dreame|garmin|fitbit|huawei|honor|lenovo|asus|acer|dji|gopro|meta quest|nintendo|playstation|xbox|kindle|homepod|airpods)\b")
         model=re.compile(r"(?i)\b(?:[a-z]{1,5}[- ]?\d{1,4}[a-z]{0,4}|\d{1,3}(?:\s?(?:pro|max|ultra|plus|mini|fold|lite))?|(?:pro|max|ultra|fold|mini|plus|air|edge|razr))\b")
         editorial=re.compile(r"(?i)\b(miglior|migliori|best|top \d|guida|guide|lista|list|gadgets? that|prodotti|products|comprare|buying|portfolio|event|livestream|trappola|confronto|comparison)\b")
-        for region,(geo,lang,ceid,query) in queries.items():
-            url="https://news.google.com/rss/search?"+urllib.parse.urlencode({"q":query+" when:7d","hl":lang,"gl":geo,"ceid":ceid})
-            try:
-                entries=rss(url)[:20]
-                source_status["Google News"]="reachable"
-            except Exception as exc:
-                print("Fallback discovery",region,type(exc).__name__,str(exc)[:120])
-                continue
+        for region,(geo,lang,ceid,terms) in queries.items():
+            entries=[]
+            for query in terms:
+                url="https://news.google.com/rss/search?"+urllib.parse.urlencode({"q":query+" when:7d","hl":lang,"gl":geo,"ceid":ceid})
+                try:
+                    entries.extend(rss(url)[:12])
+                    source_status["Google News"]="reachable"
+                except Exception as exc:
+                    print("Fallback discovery",region,type(exc).__name__,str(exc)[:120])
             for entry in entries:
                 raw=(entry.findtext("title") or "").strip()
                 headline=raw.rsplit(" - ",1)[0].strip()

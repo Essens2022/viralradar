@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-10-15T07:34:44.761569+00:00",
-  "items": [],
+  "updatedAt": "2026-10-15T13:32:48.697647+00:00",
+  "items": [
+    {
+      "name": "robot",
+      "region": "Norvegia",
+      "geo": "NO",
+      "traffic": "500+",
+      "published": "Thu, 15 Oct 2026 02:20:00 -0700",
+      "source": "Google Trends RSS",
+      "url": "https://trends.google.com/trending/rss?geo=NO",
+      "trendThumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsYrlJ56wsE9YRC6I8_EIjf132EnIY1jmMPNfmU2tFYLecHt3FfXmom5K3NzU",
+      "trafficType": "approximate_trending_searches",
+      "news": [
+        {
+          "title": "This bObsweep robot vacuum cleans and mops so you don’t have to, and it’s seeing a huge deal at Best Buy - Syracuse.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmxvX3ZkUnlQejdaSmVLbWxqMkJkdHo1ekozUDlscVNFNy12Rjd4Q1dHNFA2eXdOdlQwMGpIb1RMMHVEMG1oLXJHMWE3YUtSNXgwQ3RDU0ViV0htQllhekRyLUtBaDZRRXlUbkJQNk5uUkZJbXhvMmhERkZoREk5V3licmVEU2tpb1VNOHRuWHZ1VUFSNDdjMWV3aHFqMDR2aGQ1RnpxUVBTSnluNDZicjVrLTQ4YmJZR1JGS1NGNnhrT1JyZEtrc1dKNHhNU0lOTVhhd2pXbHNESE5jbjdjVldn0gH2AUFVX3lxTE1UYVMxczJMQVA4cW5ETWRTR0J5d3ZmN1dDZG9CT1QwdGZJQkRFbWdVWkxTeWVkUzdIUDQwNlRLR3l5S242Z19NU2hHYU81ei1TYXhrejJsS3NvcmFFeHkwbTlLQ29XXzZrLW8yR2NycFJSZFhQS3VtelFMRW10MW5tLWFVaFo1cC02a0dUNms1NFh6THVFelZJQV9LRUpLSHljbkRXTkZabjVmVzR3aDJmUm5VdEFfQ0VxdWx3bkd6NHZ0ZEdjNGMzWnlCaHRkRGFqSDZQdEpuVXNwbTQ3VW9BdjI1UFM3clNtYXFfSGpjeWJtUDFiZw?oc=5",
+          "published": "Wed, 14 Oct 2026 18:00:00 GMT"
+        },
+        {
+          "title": "Car–Robot Synergy, Real-World Impact: AiMOGA Product Launch - GlobeNewswire",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMks3NzlOaHVtYVRwWFBseFNWcXF6UXc3czhZNHBwc0wyUHJSZk5Sc19ZYWpCcEg3dUtXZTlVNUN6dTctOURfSDdiZ3dXbWEzUjkzYmYxSHBlSHJYX3lVd3VGQmpFOHBpUXc1dEQtZjdDMXlQYjdHUERvb0lkYWJ6cHNRSnd0czFROEVfRUVpTzRQVlFNUVZ4MGI5NmpLV0dPWmtuNld0Z0dxV3V4QTMzZ204ODVKdTUxc04zeHlDNU1KNDZ3MWJKVkxWRllEYmIzNjJCR1haTUVtOGFjVDR1Z3JkLTM1clI4NEFJU1pndkhUN3lZdk1MLXJQUHBrX3hrblJFQ0h3TU1veWU2b1NVd01B?oc=5",
+          "published": "Tue, 13 Oct 2026 16:08:37 GMT"
+        },
+        {
+          "title": "Two-Armed Robot Throws, Catches, and Hits Like a Baseball Pro - Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRk9pbElfU2xrbTZBR3ZoZWRoQUwwajg5LTZzNGg5RU1wRDVzZkl6bXRGa1p4LXJuZWJEMzF6NzNoY3BrNWZGZFo4WERGZjZqTjllMlRBdEUwQzdRbnZrdGxKaVFfOTdoekk1bEg2OFg5NWJFX2hZcVRPMFRZanlFNzBDS1R6blZCR09xZ0VQTU1DQQ?oc=5",
+          "published": "Mon, 12 Oct 2026 15:01:23 GMT"
+        },
+        {
+          "title": "When will you be able to buy a robot that does your housework? - WION",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzNHZElXVkZnVTZiOV8yeWROWERnb1dTdmdCRW5XUjQ0Y2JFUTdtcGo0YXFFaDk4b19yWlJNMExNSzI2RW5jRmNGWmpHQzZ2OThQTXM2QXpkZEF3QVBFdWFoNGI4YjM2RVlSRUtreDhXWExGYW9NYTd4NjhhelZrQ2JwbzFDR3dvZnFYY2RFeEdubVQ0N0ZBXzJJdmZ1dHdVdUxMZmJlXzluQQ?oc=5",
+          "published": "Wed, 14 Oct 2026 13:54:00 GMT"
+        },
+        {
+          "title": "DJI has done it again: DJI Romo 2 robot vacuum review - Notebookcheck",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUpyODUybklNazNUaTRLVXE0TTcwQ3ZtVjZ4aVNfRFM0NU1pNmV3MFl3ejFBbHJNamRseEd2OGFWamN4dkVWczlYanR6Y0YzbUY5VG1HRW5CVmJiVm9yblhsVk5yNnVZX0RoOTBoclBBZVloRExSeG9ndi1hRGVqYUFvQ3l0OWthbFNfVzYzekZCZmExbVFRU25wUi1MZw?oc=5",
+          "published": "Mon, 12 Oct 2026 09:31:00 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google Trends",
+          "type": "trending_search",
+          "url": "https://trends.google.com/trending/rss?geo=NO"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmxvX3ZkUnlQejdaSmVLbWxqMkJkdHo1ekozUDlscVNFNy12Rjd4Q1dHNFA2eXdOdlQwMGpIb1RMMHVEMG1oLXJHMWE3YUtSNXgwQ3RDU0ViV0htQllhekRyLUtBaDZRRXlUbkJQNk5uUkZJbXhvMmhERkZoREk5V3licmVEU2tpb1VNOHRuWHZ1VUFSNDdjMWV3aHFqMDR2aGQ1RnpxUVBTSnluNDZicjVrLTQ4YmJZR1JGS1NGNnhrT1JyZEtrc1dKNHhNU0lOTVhhd2pXbHNESE5jbjdjVldn0gH2AUFVX3lxTE1UYVMxczJMQVA4cW5ETWRTR0J5d3ZmN1dDZG9CT1QwdGZJQkRFbWdVWkxTeWVkUzdIUDQwNlRLR3l5S242Z19NU2hHYU81ei1TYXhrejJsS3NvcmFFeHkwbTlLQ29XXzZrLW8yR2NycFJSZFhQS3VtelFMRW10MW5tLWFVaFo1cC02a0dUNms1NFh6THVFelZJQV9LRUpLSHljbkRXTkZabjVmVzR3aDJmUm5VdEFfQ0VxdWx3bkd6NHZ0ZEdjNGMzWnlCaHRkRGFqSDZQdEpuVXNwbTQ3VW9BdjI1UFM3clNtYXFfSGpjeWJtUDFiZw?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMks3NzlOaHVtYVRwWFBseFNWcXF6UXc3czhZNHBwc0wyUHJSZk5Sc19ZYWpCcEg3dUtXZTlVNUN6dTctOURfSDdiZ3dXbWEzUjkzYmYxSHBlSHJYX3lVd3VGQmpFOHBpUXc1dEQtZjdDMXlQYjdHUERvb0lkYWJ6cHNRSnd0czFROEVfRUVpTzRQVlFNUVZ4MGI5NmpLV0dPWmtuNld0Z0dxV3V4QTMzZ204ODVKdTUxc04zeHlDNU1KNDZ3MWJKVkxWRllEYmIzNjJCR1haTUVtOGFjVDR1Z3JkLTM1clI4NEFJU1pndkhUN3lZdk1MLXJQUHBrX3hrblJFQ0h3TU1veWU2b1NVd01B?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRk9pbElfU2xrbTZBR3ZoZWRoQUwwajg5LTZzNGg5RU1wRDVzZkl6bXRGa1p4LXJuZWJEMzF6NzNoY3BrNWZGZFo4WERGZjZqTjllMlRBdEUwQzdRbnZrdGxKaVFfOTdoekk1bEg2OFg5NWJFX2hZcVRPMFRZanlFNzBDS1R6blZCR09xZ0VQTU1DQQ?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzNHZElXVkZnVTZiOV8yeWROWERnb1dTdmdCRW5XUjQ0Y2JFUTdtcGo0YXFFaDk4b19yWlJNMExNSzI2RW5jRmNGWmpHQzZ2OThQTXM2QXpkZEF3QVBFdWFoNGI4YjM2RVlSRUtreDhXWExGYW9NYTd4NjhhelZrQ2JwbzFDR3dvZnFYY2RFeEdubVQ0N0ZBXzJJdmZ1dHdVdUxMZmJlXzluQQ?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUpyODUybklNazNUaTRLVXE0TTcwQ3ZtVjZ4aVNfRFM0NU1pNmV3MFl3ejFBbHJNamRseEd2OGFWamN4dkVWczlYanR6Y0YzbUY5VG1HRW5CVmJiVm9yblhsVk5yNnVZX0RoOTBoclBBZVloRExSeG9ndi1hRGVqYUFvQ3l0OWthbFNfVzYzekZCZmExbVFRU25wUi1MZw?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    }
+  ],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -10,5 +83,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
+  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
 }

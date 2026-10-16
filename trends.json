@@ -1,79 +1,6 @@
 {
-  "updatedAt": "2026-10-16T16:47:38.435916+00:00",
-  "items": [
-    {
-      "name": "camera",
-      "region": "Țările de Jos",
-      "geo": "NL",
-      "traffic": "100+",
-      "published": "Fri, 16 Oct 2026 09:30:00 -0700",
-      "source": "Google Trends RSS",
-      "url": "https://trends.google.com/trending/rss?geo=NL",
-      "trendThumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeTbXV9RTj_A3zdFReag5ioqqHrROn0L9ZE3ox7cyyBQ-FQGts2wEx9XfZHMw",
-      "trafficType": "approximate_trending_searches",
-      "news": [
-        {
-          "title": "NOCS Portal AFN7 Review: The Camera The Japanese Couldn’t Make - The Phoblographer",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWYtWXI1NGVSNF9ZanpWb3FTNGNnbkFZUHl1MDh0eVdkYlNiV3pvTko5SmY1TWF3MEthazdHY19oLUlBTERsc2U4Nk9iLVZuSGVpNGhJdnI3S3lITmxueXFWQVlTNGtucmg1OWo0NGpwYjRETDFBZHZvUVhPM2R4ZW9oeHRkVzE3MEF6X2xrVmYwd0JYTV9VUUVCOG9SMk1MOG9qY0dkaERrMkhON2RCYw?oc=5",
-          "published": "Fri, 16 Oct 2026 09:02:23 GMT"
-        },
-        {
-          "title": "Open house provides insight on possible speed camera implementation - Bainbridge Island Review",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVY1SjhMNlczTVA2WUlDdUFVVjBORU9kRHlFVUlHaExQWHd4TWxVSXotMmZhZ0JEMDExVjZxc3lYT0xNS3pFbGgxaHJfeFByckRaR0trQ1VoRFNVMFhnNFJ0c3cwdlY4aGRuZFVhSnVCU0ZjemJ5WkRnN1RuNTE3YTltaFFTdV9rWXJRRE8td1hVVjYya1BaVVNGYi1uZE5uc01tYXpzeHc2RnVMV2RCcVRB?oc=5",
-          "published": "Fri, 16 Oct 2026 14:20:12 GMT"
-        },
-        {
-          "title": "iPhone 18 Pro and 18 Pro Max Review: Apple’s Best Camera Isn’t for Everyone - CNET",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91ekJmY2xGX1h2bndzUUpRRXlKS2ZxVlVWVnozRzhyQ2Z3a2pwRzU5alg1WUtJbGxKell2MDg0NC1na2Njbi1rTGFqVUFDLVlYa1ZDUmZ1eXRHNnhaRUV6ZW5ObDVmandVc1lzYnIyVjVyN3M?oc=5",
-          "published": "Tue, 13 Oct 2026 01:10:00 GMT"
-        },
-        {
-          "title": "Gear Review: Insta360 X6 Action Camera - Scubaverse",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xYmduRUlaeWtUYzA3UXNYdXkxYTlJY2IxdVNjcnhfdnJmQ0c3WDh4b1B6NTdObUxlemk4bDE5Z0dOQlNiVTNsUk40cWhES0pxVEV3WEZPeTFldENJQm04aHFxWjZmQWlDdU5yNklB?oc=5",
-          "published": "Fri, 16 Oct 2026 11:20:01 GMT"
-        },
-        {
-          "title": "Samsung Galaxy S27 Ultra Rumors: Battery, Camera, Chip - Gadget Hacks",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkJ4MVlOTTZvWWNUVU5CT0lXTk9PMkVIOHBIMzF5QkxSRlRmWU1EdU5wb1p0MWJ0WFFyRmM4UFNPdk1UcW53cWx6V2FBSHpVeDBDaEhhVGhCNXcxa0Z5WldNTDJ0b0xPQ3JFenNaOVlaZlVZNnBpdUJzRkRBemJoQk9idmVHOFFqTk4ycnVfaXAyNHc?oc=5",
-          "published": "Fri, 16 Oct 2026 12:00:54 GMT"
-        }
-      ],
-      "videos": [],
-      "evidence": [
-        {
-          "source": "Google Trends",
-          "type": "trending_search",
-          "url": "https://trends.google.com/trending/rss?geo=NL"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWYtWXI1NGVSNF9ZanpWb3FTNGNnbkFZUHl1MDh0eVdkYlNiV3pvTko5SmY1TWF3MEthazdHY19oLUlBTERsc2U4Nk9iLVZuSGVpNGhJdnI3S3lITmxueXFWQVlTNGtucmg1OWo0NGpwYjRETDFBZHZvUVhPM2R4ZW9oeHRkVzE3MEF6X2xrVmYwd0JYTV9VUUVCOG9SMk1MOG9qY0dkaERrMkhON2RCYw?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVY1SjhMNlczTVA2WUlDdUFVVjBORU9kRHlFVUlHaExQWHd4TWxVSXotMmZhZ0JEMDExVjZxc3lYT0xNS3pFbGgxaHJfeFByckRaR0trQ1VoRFNVMFhnNFJ0c3cwdlY4aGRuZFVhSnVCU0ZjemJ5WkRnN1RuNTE3YTltaFFTdV9rWXJRRE8td1hVVjYya1BaVVNGYi1uZE5uc01tYXpzeHc2RnVMV2RCcVRB?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91ekJmY2xGX1h2bndzUUpRRXlKS2ZxVlVWVnozRzhyQ2Z3a2pwRzU5alg1WUtJbGxKell2MDg0NC1na2Njbi1rTGFqVUFDLVlYa1ZDUmZ1eXRHNnhaRUV6ZW5ObDVmandVc1lzYnIyVjVyN3M?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xYmduRUlaeWtUYzA3UXNYdXkxYTlJY2IxdVNjcnhfdnJmQ0c3WDh4b1B6NTdObUxlemk4bDE5Z0dOQlNiVTNsUk40cWhES0pxVEV3WEZPeTFldENJQm04aHFxWjZmQWlDdU5yNklB?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkJ4MVlOTTZvWWNUVU5CT0lXTk9PMkVIOHBIMzF5QkxSRlRmWU1EdU5wb1p0MWJ0WFFyRmM4UFNPdk1UcW53cWx6V2FBSHpVeDBDaEhhVGhCNXcxa0Z5WldNTDJ0b0xPQ3JFenNaOVlaZlVZNnBpdUJzRkRBemJoQk9idmVHOFFqTk4ycnVfaXAyNHc?oc=5"
-        }
-      ],
-      "productStatus": "candidate_unverified"
-    }
-  ],
+  "updatedAt": "2026-10-16T21:24:15.092251+00:00",
+  "items": [],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -83,5 +10,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
+  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
 }

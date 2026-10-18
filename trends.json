@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-10-18T11:23:57.808671+00:00",
-  "items": [
-    {
-      "name": "drone remote sensing rock shelters",
-      "region": "Australia",
-      "geo": "AU",
-      "traffic": "100+",
-      "published": "Sun, 18 Oct 2026 02:50:00 -0700",
-      "source": "Google Trends RSS",
-      "url": "https://trends.google.com/trending/rss?geo=AU",
-      "trendThumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7Y1d_L0zsQY4BMWgRAiT5SoJuDIftjvQfiqNKKqbmEUW1xZQk_QqWRnDmlGw",
-      "trafficType": "approximate_trending_searches",
-      "news": [],
-      "videos": [],
-      "evidence": [
-        {
-          "source": "Google Trends",
-          "type": "trending_search",
-          "url": "https://trends.google.com/trending/rss?geo=AU"
-        }
-      ],
-      "productStatus": "candidate_unverified"
-    }
-  ],
+  "updatedAt": "2026-10-18T15:59:27.414569+00:00",
+  "items": [],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -32,5 +10,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
+  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
 }

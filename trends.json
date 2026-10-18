@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-10-18T15:59:27.414569+00:00",
-  "items": [],
+  "updatedAt": "2026-10-18T18:42:49.482115+00:00",
+  "items": [
+    {
+      "name": "ukraine drone strikes",
+      "region": "SUA",
+      "geo": "US",
+      "traffic": "1000+",
+      "published": "Sun, 18 Oct 2026 11:20:00 -0700",
+      "source": "Google Trends RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "trendThumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRSPSQnsMNonRnSbPlQ1_LhZdcynZcpncvCD-ogiTsdma5BPq7tQjiDxYlyqM",
+      "trafficType": "approximate_trending_searches",
+      "news": [
+        {
+          "title": "Did Ukraine’s strikes on data centers really silence Russian bots? - Mashable",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQU4xdFhMeUtoTFlsSk5MeUhDTUVPTHEwbFI5Q1NZV3JHNlMzUktyb0d5TUZXWC1JMFJlVFpSTWpUeVdYQ1RjYURsMlF6N0J3UG5DMWx2Ym1JMC1sWkhpUUU5ZThHXzdKN0ZYVHgwLUxqUU9JTDljbHdYM3BhR2V4RENJOVpGRlU?oc=5",
+          "published": "Mon, 12 Oct 2026 19:25:53 GMT"
+        },
+        {
+          "title": "Russian bot traffic decimated overnight after Ukraine drone strikes knock multiple Yandex data centers offline - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDk5ekVfZ2pxdmpJR0lkdmo3RDJnNGF3MVh1bDc2S25ZTVpnR1NvR0xsaHFqMmNIbmR5elpPTkd5QkdqMUt4VmdGcmpPU015a1M5RlBHM2Y3bTFzdmY3b1gySkZLWmxwVDFaU0hpeEhab2VwdFFkdC1IWTB3X1V1MDZFZGs1bjdxUGFOLXItUVJNSnFhNEp2SFlfRmY?oc=5",
+          "published": "Tue, 13 Oct 2026 01:10:00 GMT"
+        },
+        {
+          "title": "Ukraine Strikes Yandex Data Centers, Expanding Attacks Inside Russia - Global Banking & Finance Review",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXpaVmlGZkVxMlZsQlRHNmVFRlpTaTgxN0w4T2VtMXdvMUdOWV9jbmtWem1KUV8xVzhyVUFkQUtnSkhnNjhXUldHLVJPMVhnMG0zWFV6RHlidEV5NkJLR09lNVFRdHh5V25XdG9mVEhvSXlFajZ1VG93Y2doYmgzRXdzZTdoZVlzTEcwRHFZUFV0RjBQLTdXQzM3aHd4Zw?oc=5",
+          "published": "Fri, 09 Oct 2026 16:00:55 GMT"
+        },
+        {
+          "title": "Ukraine Steps Up Drone Attacks Inside Russia - World Politics Review",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03azVQY2JzejRmNVFrUmV1ODEwWWdXRVJOX251X09yQzQ3c1lGVFJMQV85cVdLNHM4cTFUeExWN2I0NG0yQnMyVXBiQWQweFNoazlLVGw5ck9EMWs2eW84Uy03MjVGZElIT3FmV1VXX2tHT00?oc=5",
+          "published": "Mon, 10 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Ukraine’s Drone Strikes on Wildberries Sent Russia’s Military Gear Sales Plunging - UNITED24 Media",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXM0XzJkZjJRaHdqbjRfdmQya094TmlMM0tqX1VEbzA3WXYyV3Z0eTlSaEJOTERfLTlxRGVDY2x3WW5IaE9DeTRVazJlU0gxUU9xZGtyMk5RUWxUQzA3b2VvVU93eUZJSnBSRS1SZjViclVSYmNVMjJqMnhmTlVXa1duYk82bWk1Q1BxbnVCVDh6TnpmbUZCSk82aFEtem9rMDIxY204SXR4ZXZlTlRzNzVPb1NmcU0xNFRyRl9NNGJBbmRL?oc=5",
+          "published": "Fri, 14 Aug 2026 07:00:00 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google Trends",
+          "type": "trending_search",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQU4xdFhMeUtoTFlsSk5MeUhDTUVPTHEwbFI5Q1NZV3JHNlMzUktyb0d5TUZXWC1JMFJlVFpSTWpUeVdYQ1RjYURsMlF6N0J3UG5DMWx2Ym1JMC1sWkhpUUU5ZThHXzdKN0ZYVHgwLUxqUU9JTDljbHdYM3BhR2V4RENJOVpGRlU?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDk5ekVfZ2pxdmpJR0lkdmo3RDJnNGF3MVh1bDc2S25ZTVpnR1NvR0xsaHFqMmNIbmR5elpPTkd5QkdqMUt4VmdGcmpPU015a1M5RlBHM2Y3bTFzdmY3b1gySkZLWmxwVDFaU0hpeEhab2VwdFFkdC1IWTB3X1V1MDZFZGs1bjdxUGFOLXItUVJNSnFhNEp2SFlfRmY?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXpaVmlGZkVxMlZsQlRHNmVFRlpTaTgxN0w4T2VtMXdvMUdOWV9jbmtWem1KUV8xVzhyVUFkQUtnSkhnNjhXUldHLVJPMVhnMG0zWFV6RHlidEV5NkJLR09lNVFRdHh5V25XdG9mVEhvSXlFajZ1VG93Y2doYmgzRXdzZTdoZVlzTEcwRHFZUFV0RjBQLTdXQzM3aHd4Zw?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03azVQY2JzejRmNVFrUmV1ODEwWWdXRVJOX251X09yQzQ3c1lGVFJMQV85cVdLNHM4cTFUeExWN2I0NG0yQnMyVXBiQWQweFNoazlLVGw5ck9EMWs2eW84Uy03MjVGZElIT3FmV1VXX2tHT00?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXM0XzJkZjJRaHdqbjRfdmQya094TmlMM0tqX1VEbzA3WXYyV3Z0eTlSaEJOTERfLTlxRGVDY2x3WW5IaE9DeTRVazJlU0gxUU9xZGtyMk5RUWxUQzA3b2VvVU93eUZJSnBSRS1SZjViclVSYmNVMjJqMnhmTlVXa1duYk82bWk1Q1BxbnVCVDh6TnpmbUZCSk82aFEtem9rMDIxY204SXR4ZXZlTlRzNzVPb1NmcU0xNFRyRl9NNGJBbmRL?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    }
+  ],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -10,5 +83,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
+  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
 }

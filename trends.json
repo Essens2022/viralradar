@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-19T20:00:29.255987+00:00",
+  "updatedAt": "2026-10-19T23:48:37.557510+00:00",
   "items": [
     {
       "name": "drone",
       "region": "Norvegia",
       "geo": "NO",
-      "traffic": "500+",
+      "traffic": "1000+",
       "published": "Mon, 19 Oct 2026 12:40:00 -0700",
       "source": "Google Trends RSS",
       "url": "https://trends.google.com/trending/rss?geo=NO",
@@ -23,11 +23,6 @@
           "published": "Mon, 19 Oct 2026 09:24:35 GMT"
         },
         {
-          "title": "US lawmakers ask FAA to conduct review before allowing Amazon drone hub near Boston - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd3hFTE1XNWZDQm1jMXloNlREQnljaTljaE93LThlTGsyUlBzdVEzbEgwUEdtckNjQm5wVVNNNUtXeURqUk5pS3hEWFpsbDhqQS1yVnRQcjRVMUVza1JyVlUwYVA4T3ZOMS16am5QWEJVSU9wQ2N5VUxIOEE4SGdFZXVaSFBNZGNmdjNfMXRnVk1iNEFFVlBycUxwMk13MjNOWnlqd01pQ2xmQ1BmeWZMR2Y3cXl4Ml9WX2czTmJqVDROTHJuVkZoOHA3SXdRTWZWWHhVOXhycHE?oc=5",
-          "published": "Wed, 14 Oct 2026 17:16:53 GMT"
-        },
-        {
           "title": "Federal lawmakers call for review of Amazon's Westborough drone delivery plans - NBC Boston",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQenRrWlBVZ2VoMlVqVWVMVWFkNTRkdGU5S2hvOUMzWnJ2enZORU45Q1VEVGVZVzlFTE9xNkdkQWlLRlZaN1IzZjFDUC1vVmpRYzlRQWdlYVpmWXdhVl9PTzlmMmc1VUpSa2E4bkZDM3VzX0J5d0dad203aTBlV01PZTZtcHdpNE5pUTZKOFhKTlNUNmJYandoeVVXakZCVmVPUGhFR3FnTjVjeWNmZHBscVBiSkU4TUYtQ1VPV2JnYmV4TlJzd05rZdIB0AFBVV95cUxNMjRzQ09yV0hTTjE0QndoZGFyVUdfOXg0cVM4WENPN1pkMEZpeEFfWkZINlNjbWpZSHd5eDMtQXFMRUZCZVkzRnJ5X3Fac3pyRTY0eXF2Y1kzVEJEcGV6bERxcVZXNDdJWGxaN29FdG5HMEt6cWM5c0gxeEZWeFlGV05yVnRRRE9WMnlmQU4xRXBjTWs3UWR0MDNWNlZSWUUxZ2pIMjM1TncwQ0FqZ0I2cWY2ZU5FNFRvdHowSTZKNG5QTUczakhmTkN0UnF6bHds?oc=5",
           "published": "Wed, 14 Oct 2026 16:06:41 GMT"
@@ -36,6 +31,11 @@
           "title": "States Challenge FAA’s Nationwide Environmental Review for Drone Package Delivery - The National Law Review",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5",
           "published": "Wed, 14 Oct 2026 16:53:59 GMT"
+        },
+        {
+          "title": "Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub - Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
+          "published": "Wed, 14 Oct 2026 17:19:00 GMT"
         }
       ],
       "videos": [],
@@ -58,17 +58,17 @@
         {
           "source": "Google News",
           "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd3hFTE1XNWZDQm1jMXloNlREQnljaTljaE93LThlTGsyUlBzdVEzbEgwUEdtckNjQm5wVVNNNUtXeURqUk5pS3hEWFpsbDhqQS1yVnRQcjRVMUVza1JyVlUwYVA4T3ZOMS16am5QWEJVSU9wQ2N5VUxIOEE4SGdFZXVaSFBNZGNmdjNfMXRnVk1iNEFFVlBycUxwMk13MjNOWnlqd01pQ2xmQ1BmeWZMR2Y3cXl4Ml9WX2czTmJqVDROTHJuVkZoOHA3SXdRTWZWWHhVOXhycHE?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQenRrWlBVZ2VoMlVqVWVMVWFkNTRkdGU5S2hvOUMzWnJ2enZORU45Q1VEVGVZVzlFTE9xNkdkQWlLRlZaN1IzZjFDUC1vVmpRYzlRQWdlYVpmWXdhVl9PTzlmMmc1VUpSa2E4bkZDM3VzX0J5d0dad203aTBlV01PZTZtcHdpNE5pUTZKOFhKTlNUNmJYandoeVVXakZCVmVPUGhFR3FnTjVjeWNmZHBscVBiSkU4TUYtQ1VPV2JnYmV4TlJzd05rZdIB0AFBVV95cUxNMjRzQ09yV0hTTjE0QndoZGFyVUdfOXg0cVM4WENPN1pkMEZpeEFfWkZINlNjbWpZSHd5eDMtQXFMRUZCZVkzRnJ5X3Fac3pyRTY0eXF2Y1kzVEJEcGV6bERxcVZXNDdJWGxaN29FdG5HMEt6cWM5c0gxeEZWeFlGV05yVnRRRE9WMnlmQU4xRXBjTWs3UWR0MDNWNlZSWUUxZ2pIMjM1TncwQ0FqZ0I2cWY2ZU5FNFRvdHowSTZKNG5QTUczakhmTkN0UnF6bHds?oc=5"
         },
         {
           "source": "Google News",
           "type": "news_mention",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5"
         }
       ],
       "productStatus": "candidate_unverified"

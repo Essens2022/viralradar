@@ -1,79 +1,6 @@
 {
-  "updatedAt": "2026-10-26T15:18:07.291334+00:00",
-  "items": [
-    {
-      "name": "drone",
-      "region": "Portugalia",
-      "geo": "PT",
-      "traffic": "200+",
-      "published": "Mon, 26 Oct 2026 07:10:00 -0700",
-      "source": "Google Trends RSS",
-      "url": "https://trends.google.com/trending/rss?geo=PT",
-      "trendThumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjKJwOScnO2BXyae5eSkRRBB8FSM4PWgb1JyluE91bKJXnMykEWxxda6_5J3s",
-      "trafficType": "approximate_trending_searches",
-      "news": [
-        {
-          "title": "Tracy residents question Amazon drone plan as city begins review - ABC10",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQclo2MnlEWjBKTTMxY3JDZzd2NlZUNmt3ZWNtUGtESGZtMVk2LUI4SjBYekxMWkRsMkxHMmsxdldTQlM2YTgxZHN3S1dsakdLa2hyNmdjejd0cUd5MHp6cFBKangwd1dnaEJLRGdmOEk4b09hYzZlQmMzQ0l6NW1uREU3NXBENnZ2LWkwNHd4ai1rMTFMTWozR19RQmxOdlRHalJZT3F6Um9RRTJvcGZabEJtOExOc1R3T2NaNW94YlpoVHU0eEpNbmtnZ1dzSUVkTjl4Q3hqTTJXaFRseFhpSDFCQW5adzQ?oc=5",
-          "published": "Fri, 23 Oct 2026 06:38:00 GMT"
-        },
-        {
-          "title": "Amazon Drone Delivery Plan Faces State Review as Massachusetts Residents Organize - Dronelife",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVY5Snhkc3V5YTVhZ0t0T0pYaUJyTnBqcFo4VUdhTXZQZ1R3RkxwdHBjMXpzbUwxc1p5Vy1sUnhYNUwyZHVpTEJFRUZtdTN3azViNEJQaHd5eTBjNXUzNEhJN0xpbkt4MERPc09ZNmN3N3VDcjgwYm1kWGI3b2FjQ3c2YVVOejA?oc=5",
-          "published": "Fri, 23 Oct 2026 15:00:12 GMT"
-        },
-        {
-          "title": "Week in review: Drone debate, senior housing opens, PETA seeks probe - The Worcester Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeFF2YnNtSGJ2RWVfWlRBQ3EyOVFmVkhiUjFlZ1VfZ21NZllWUS1DZ3Vfei1oVXpmbkJ4Z3l2aUdxZFpQdEVDNTFxZ29VSDZOUTFDZlBPSU1Ra0FEX3ZXX2UydW1CU1lqbXh1MXVvZ1dPZGIwcllMNHBjWjBfNTZXS2taUk8xN21tNEZhNHJ4S25zRFg0MDltcmVkY3ZpLUM5YzFV?oc=5",
-          "published": "Fri, 23 Oct 2026 19:28:16 GMT"
-        },
-        {
-          "title": "MassDOT Tells Amazon, Drone Flights Must Follow State Law - Franklin Observer",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRHJRcmtJVERTN3BKWVpqM3lBQnJtaVItMDhXQlc1bVllMkhuUUQ2X293X0dSWXFuLTNZbGkyYWk4Z2txN2cwN0NLQkU2bWRoVl9TRHYxOFRDenhnRWRMRnktUnRLb3RxMzFTbVN2TmVsMWxTcDZaRkJaa3ZYT3dxdTFRQTY1THBwbHdYQlNtbTg4aG9FcHRibVFTWEtqWFctTjhnTzJPNmdNci0wRnJLQkJrUEJMenh2OG5Z?oc=5",
-          "published": "Sat, 24 Oct 2026 08:19:23 GMT"
-        },
-        {
-          "title": "The rapid Ukraine war arms race means weapons makers can never truly consider a product finished - Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjk3RWVkZjBIOHJUc0dwb0VWRW1kTkxjR1VPUlpKZm5IYUNWRjJ5OVNWaWczeWpsbDNhRWViejBYTlN5cE1PUS1yX1ZiN2pUaXljRjgxbGI5azN0VnlBWUJxLUhzNlVpdUJJN1MtQW9va3JwdUpOWUtoMlF2dmRLenFWZkZrRzR6dDRfYU5ROXlLZnJJbzc4WnAtb0xjMHFrRm55RmhpakJTaWF5OWNZRTR0d1NEd1hGVUE?oc=5",
-          "published": "Sat, 24 Oct 2026 11:43:00 GMT"
-        }
-      ],
-      "videos": [],
-      "evidence": [
-        {
-          "source": "Google Trends",
-          "type": "trending_search",
-          "url": "https://trends.google.com/trending/rss?geo=PT"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQclo2MnlEWjBKTTMxY3JDZzd2NlZUNmt3ZWNtUGtESGZtMVk2LUI4SjBYekxMWkRsMkxHMmsxdldTQlM2YTgxZHN3S1dsakdLa2hyNmdjejd0cUd5MHp6cFBKangwd1dnaEJLRGdmOEk4b09hYzZlQmMzQ0l6NW1uREU3NXBENnZ2LWkwNHd4ai1rMTFMTWozR19RQmxOdlRHalJZT3F6Um9RRTJvcGZabEJtOExOc1R3T2NaNW94YlpoVHU0eEpNbmtnZ1dzSUVkTjl4Q3hqTTJXaFRseFhpSDFCQW5adzQ?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVY5Snhkc3V5YTVhZ0t0T0pYaUJyTnBqcFo4VUdhTXZQZ1R3RkxwdHBjMXpzbUwxc1p5Vy1sUnhYNUwyZHVpTEJFRUZtdTN3azViNEJQaHd5eTBjNXUzNEhJN0xpbkt4MERPc09ZNmN3N3VDcjgwYm1kWGI3b2FjQ3c2YVVOejA?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeFF2YnNtSGJ2RWVfWlRBQ3EyOVFmVkhiUjFlZ1VfZ21NZllWUS1DZ3Vfei1oVXpmbkJ4Z3l2aUdxZFpQdEVDNTFxZ29VSDZOUTFDZlBPSU1Ra0FEX3ZXX2UydW1CU1lqbXh1MXVvZ1dPZGIwcllMNHBjWjBfNTZXS2taUk8xN21tNEZhNHJ4S25zRFg0MDltcmVkY3ZpLUM5YzFV?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRHJRcmtJVERTN3BKWVpqM3lBQnJtaVItMDhXQlc1bVllMkhuUUQ2X293X0dSWXFuLTNZbGkyYWk4Z2txN2cwN0NLQkU2bWRoVl9TRHYxOFRDenhnRWRMRnktUnRLb3RxMzFTbVN2TmVsMWxTcDZaRkJaa3ZYT3dxdTFRQTY1THBwbHdYQlNtbTg4aG9FcHRibVFTWEtqWFctTjhnTzJPNmdNci0wRnJLQkJrUEJMenh2OG5Z?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjk3RWVkZjBIOHJUc0dwb0VWRW1kTkxjR1VPUlpKZm5IYUNWRjJ5OVNWaWczeWpsbDNhRWViejBYTlN5cE1PUS1yX1ZiN2pUaXljRjgxbGI5azN0VnlBWUJxLUhzNlVpdUJJN1MtQW9va3JwdUpOWUtoMlF2dmRLenFWZkZrRzR6dDRfYU5ROXlLZnJJbzc4WnAtb0xjMHFrRm55RmhpakJTaWF5OWNZRTR0d1NEd1hGVUE?oc=5"
-        }
-      ],
-      "productStatus": "candidate_unverified"
-    }
-  ],
+  "updatedAt": "2026-10-26T21:05:43.504550+00:00",
+  "items": [],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -83,5 +10,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
+  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
 }

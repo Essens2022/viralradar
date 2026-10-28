@@ -1,59 +1,6 @@
 {
-  "updatedAt": "2026-10-28T01:28:35.131234+00:00",
-  "items": [
-    {
-      "name": "drone de combat",
-      "region": "Franța",
-      "geo": "FR",
-      "traffic": "200+",
-      "published": "Tue, 27 Oct 2026 16:30:00 -0700",
-      "source": "Google Trends RSS",
-      "url": "https://trends.google.com/trending/rss?geo=FR",
-      "trendThumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0bvuWNCJoadPtdgdjU47_EWn1PkecO3xCVQI5muNlvVnr32J-DhDfO02yi5k",
-      "trafficType": "approximate_trending_searches",
-      "news": [
-        {
-          "title": "NATO’s Drone Wingmen: USAFE Prepares for Allied CCAs - MiGFlug",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWQwblA0MVBmcU1Nb0lUMERFR2gtSlVaenJsNGVzVnkwSkZnWDJxMzI5QXlORXdtR2hCUncwTGZQaVZmTXpzaTFrX0lsS2x6bDMzcE5TLVYzUGRXdG5JczIzeXlLV2FjZXhtb19IelBfYnZ2blgyV202dk1vMkJNcmxURm1KdjNfdTNMd3hhYk1BZ0lGZXhnaUplZ1RXQVJxY1d2aUZjcDY?oc=5",
-          "published": "Thu, 17 Sep 2026 07:00:00 GMT"
-        },
-        {
-          "title": "French nuclear weapons, 2025 - Bulletin of the Atomic Scientists",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zVl9uVUl0YVVlelVCZGUxdnFUWGZyMWRxeVRTclFWcUxnVHNNWTVYNUdPdGdEVXJ3U2hFNl90SXdqUkllRU1ObWJ4OWhvQXNzeGJxNGQ0ZGdaWUJzdkU1cTZGRm5Wa29OeE1CX3JzUE5RUUxjN0Zn?oc=5",
-          "published": "Tue, 15 Jul 2025 07:00:00 GMT"
-        },
-        {
-          "title": "Burkina Faso Air Force - MiGFlug",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0M3Nucmx1NHozX2I5VFZIel9ZZFhhakUyVnZVczM5VFBmS21TeUpDZHdlRTNRQUY4eUMtbzM0WUEtNl9zUHpxUnR2OER2cml0VjZWbng3dVNidGE5b3Zuem5lTlI?oc=5",
-          "published": "Fri, 19 Jun 2026 07:00:00 GMT"
-        }
-      ],
-      "videos": [],
-      "evidence": [
-        {
-          "source": "Google Trends",
-          "type": "trending_search",
-          "url": "https://trends.google.com/trending/rss?geo=FR"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWQwblA0MVBmcU1Nb0lUMERFR2gtSlVaenJsNGVzVnkwSkZnWDJxMzI5QXlORXdtR2hCUncwTGZQaVZmTXpzaTFrX0lsS2x6bDMzcE5TLVYzUGRXdG5JczIzeXlLV2FjZXhtb19IelBfYnZ2blgyV202dk1vMkJNcmxURm1KdjNfdTNMd3hhYk1BZ0lGZXhnaUplZ1RXQVJxY1d2aUZjcDY?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zVl9uVUl0YVVlelVCZGUxdnFUWGZyMWRxeVRTclFWcUxnVHNNWTVYNUdPdGdEVXJ3U2hFNl90SXdqUkllRU1ObWJ4OWhvQXNzeGJxNGQ0ZGdaWUJzdkU1cTZGRm5Wa29OeE1CX3JzUE5RUUxjN0Zn?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0M3Nucmx1NHozX2I5VFZIel9ZZFhhakUyVnZVczM5VFBmS21TeUpDZHdlRTNRQUY4eUMtbzM0WUEtNl9zUHpxUnR2OER2cml0VjZWbng3dVNidGE5b3Zuem5lTlI?oc=5"
-        }
-      ],
-      "productStatus": "candidate_unverified"
-    }
-  ],
+  "updatedAt": "2026-10-28T08:44:11.148118+00:00",
+  "items": [],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -63,5 +10,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
+  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
 }

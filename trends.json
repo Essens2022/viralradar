@@ -1,6 +1,49 @@
 {
-  "updatedAt": "2026-11-04T00:42:29.020413+00:00",
-  "items": [],
+  "updatedAt": "2026-11-04T09:29:35.479890+00:00",
+  "items": [
+    {
+      "name": "xbox alligator console",
+      "region": "Canada",
+      "geo": "CA",
+      "traffic": "200+",
+      "published": "Tue, 3 Nov 2026 23:10:00 -0800",
+      "source": "Google Trends RSS",
+      "url": "https://trends.google.com/trending/rss?geo=CA",
+      "trendThumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbtoV_phLBWVSZkazeJUbyE8hpMnzdKkO86sbMKBSTbfD26gB2HB1ILCwaEbo",
+      "trafficType": "approximate_trending_searches",
+      "news": [
+        {
+          "title": "How do you win the Xbox Series X Bite? Repost Xbox's post with #XbiteSweepstakes by Nov. 10 - Nacionale",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUmlXQnlHWlFoX19pbFEzZU1OUGw1ekFjRVhRT280NU1jclpPR1BUSUMweWt5MllTQ2JVUXR1Q2R5dUV2cHFwZGRIX3FaZkZCWmM4LXViTmtCRmZSNzRSWjBxZEc0U2JrQ3gzT1RqdkNiMkRud29NV1d2UDRxUEhtd29UTGwyaUtxYldnZUlYYTlIcy1XMzlVcU5yMUIxbkZqeUhFTEYwTmE?oc=5",
+          "published": "Tue, 03 Nov 2026 23:29:06 GMT"
+        },
+        {
+          "title": "Xbox Is Giving Away an Alligator Shaped Console to Celebrate GTA 6 Release - Beebom",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmRE93OW1JMVp1V1JGbGRWM29hRXNfNjlwSnVvTUtqRGtPeFdSS05rZHlfb1ZMM1hra0FSaEpuUTVNbFJ4RlJXZVJlcmxsbk5uX1lRWEtNc0ZWcnpSSTJRWTlmZ000TWt0MjBWd0M2clRGUQ?oc=5",
+          "published": "Wed, 04 Nov 2026 07:57:45 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google Trends",
+          "type": "trending_search",
+          "url": "https://trends.google.com/trending/rss?geo=CA"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUmlXQnlHWlFoX19pbFEzZU1OUGw1ekFjRVhRT280NU1jclpPR1BUSUMweWt5MllTQ2JVUXR1Q2R5dUV2cHFwZGRIX3FaZkZCWmM4LXViTmtCRmZSNzRSWjBxZEc0U2JrQ3gzT1RqdkNiMkRud29NV1d2UDRxUEhtd29UTGwyaUtxYldnZUlYYTlIcy1XMzlVcU5yMUIxbkZqeUhFTEYwTmE?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmRE93OW1JMVp1V1JGbGRWM29hRXNfNjlwSnVvTUtqRGtPeFdSS05rZHlfb1ZMM1hra0FSaEpuUTVNbFJ4RlJXZVJlcmxsbk5uX1lRWEtNc0ZWcnpSSTJRWTlmZ000TWt0MjBWd0M2clRGUQ?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    }
+  ],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -10,5 +53,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
+  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
 }

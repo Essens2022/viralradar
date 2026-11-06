@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-11-06T07:01:48.319720+00:00",
-  "items": [],
+  "updatedAt": "2026-11-06T16:00:21.394886+00:00",
+  "items": [
+    {
+      "name": "sony walkman headphones",
+      "region": "Singapore",
+      "geo": "SG",
+      "traffic": "200+",
+      "published": "Fri, 6 Nov 2026 03:20:00 -0800",
+      "source": "Google Trends RSS",
+      "url": "https://trends.google.com/trending/rss?geo=SG",
+      "trendThumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3wTUKy9cJ7G-qcDTXz-pZlS5oFguTe9VzhZ18G4lUks-ckliYKUkJ1cX-LPA",
+      "trafficType": "approximate_trending_searches",
+      "news": [
+        {
+          "title": "Vintage Sony Walkman Headphones Return as the MDR-3R USB-C and I’m Stoked About Them - CNET",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzgzXzB5eVh5b2VWajFReGc0T19XOFNWUUtnMFRaS1diWEYxaW84aURzNjFxSTFnZ0hkWTNjQWt6Y2tTelpXWThEX1FtNHBrTWI3dl9YdGZLY2tFa29YV2ZUWTYwTUZDZ0dYeWg4aDNTblZ4QmRNSXZYb181NDg4dXJtOA?oc=5",
+          "published": "Thu, 05 Nov 2026 23:51:00 GMT"
+        },
+        {
+          "title": "Sony MDR-3R review: the iconic Sony Walkman headphones are back - The Shortcut | Matt Swider",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TTy1Za1hXbXdrY3lpcDdRdDRua1VaUF9pRVVXTWl2Smc1QlhWeDRRSjNBVF9rSHlYOHd2VV9iTzlmT2VreWNEUFN0SEw4dS0wMFI0eE5lTDJaSGl0?oc=5",
+          "published": "Thu, 05 Nov 2026 16:02:28 GMT"
+        },
+        {
+          "title": "Sony is launching $60 retro Walkman headphones — with a twist - Quartz",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMSHpsTm1nZ1pqM0xiQ2QzSllhX2Vsc3JIQTVlOHNGRWRTRFVjWmc1TUFOM2VCZF9zek9LSzNWbkcxX2lZaFFfekp2czN1ZlRaWVdXQ2NpWURyNlRzYmkzZ3Vqc1J4VFNmaHpvNTNkOEpZQQ?oc=5",
+          "published": "Thu, 05 Nov 2026 16:54:45 GMT"
+        },
+        {
+          "title": "I think Sony's Walkman headphones are about to make a comeback - T3",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlFuOEZNVEM4Um1vUmlCeXEtdTd4QmpkMmtaQ2QwNlcyMjl2TnJmeTB6SGxTVEJhbXotdFBXdmxEcVJ4b2FNaFJ6ZTZIVXlmdTU4MzFpVVlZZU1JcHl5aEdsaEtDSTJFNzA4RGh5cnUtY1RVQ1FNM0ZKejNrY3RwYkU5YWY1ZllYbTZyQUFENjNjR1ZsZHAzbFk3a1I?oc=5",
+          "published": "Tue, 03 Nov 2026 14:00:51 GMT"
+        },
+        {
+          "title": "Sony MDR-3R Revives Walkman Headphones With USB-C at $60 - ShiftDelete.Net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VUkJpU2JZR2hTdURvRmwzaXcwa3RpdklHRVU3QVVnWlBlMXFfdmhqbW9lelNqRkZUOGlmWlFzaGh2MkVncy1ibEpMdkhCSUE?oc=5",
+          "published": "Fri, 06 Nov 2026 07:54:38 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google Trends",
+          "type": "trending_search",
+          "url": "https://trends.google.com/trending/rss?geo=SG"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzgzXzB5eVh5b2VWajFReGc0T19XOFNWUUtnMFRaS1diWEYxaW84aURzNjFxSTFnZ0hkWTNjQWt6Y2tTelpXWThEX1FtNHBrTWI3dl9YdGZLY2tFa29YV2ZUWTYwTUZDZ0dYeWg4aDNTblZ4QmRNSXZYb181NDg4dXJtOA?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TTy1Za1hXbXdrY3lpcDdRdDRua1VaUF9pRVVXTWl2Smc1QlhWeDRRSjNBVF9rSHlYOHd2VV9iTzlmT2VreWNEUFN0SEw4dS0wMFI0eE5lTDJaSGl0?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMSHpsTm1nZ1pqM0xiQ2QzSllhX2Vsc3JIQTVlOHNGRWRTRFVjWmc1TUFOM2VCZF9zek9LSzNWbkcxX2lZaFFfekp2czN1ZlRaWVdXQ2NpWURyNlRzYmkzZ3Vqc1J4VFNmaHpvNTNkOEpZQQ?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlFuOEZNVEM4Um1vUmlCeXEtdTd4QmpkMmtaQ2QwNlcyMjl2TnJmeTB6SGxTVEJhbXotdFBXdmxEcVJ4b2FNaFJ6ZTZIVXlmdTU4MzFpVVlZZU1JcHl5aEdsaEtDSTJFNzA4RGh5cnUtY1RVQ1FNM0ZKejNrY3RwYkU5YWY1ZllYbTZyQUFENjNjR1ZsZHAzbFk3a1I?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VUkJpU2JZR2hTdURvRmwzaXcwa3RpdklHRVU3QVVnWlBlMXFfdmhqbW9lelNqRkZUOGlmWlFzaGh2MkVncy1ibEpMdkhCSUE?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    }
+  ],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -10,5 +83,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
+  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
 }

@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-11-07T16:32:21.265935+00:00",
-  "items": [],
+  "updatedAt": "2026-11-07T22:02:06.414298+00:00",
+  "items": [
+    {
+      "name": "sony mdr 3r wired headphones",
+      "region": "Australia",
+      "geo": "AU",
+      "traffic": "200+",
+      "published": "Sat, 7 Nov 2026 13:00:00 -0800",
+      "source": "Google Trends RSS",
+      "url": "https://trends.google.com/trending/rss?geo=AU",
+      "trendThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLApY1utdmBOZXWx4Cvb4W6uZzG2hWioIS4LnAc_wwBJ3BzU2mOFLILJ_tCvM",
+      "trafficType": "approximate_trending_searches",
+      "news": [
+        {
+          "title": "Sony’s new MDR-3R wired headphones hark back to the glory days of the Walkman - Wallpaper*",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVDdyVmtfa1U0SE45S3YtMWEweU9EYjlscWhLTjFWb2FPTm5iRldUTWtUMkQwUmlpSzBTdW5VQlNnZ0l0STlNZ2tyMEd4OWRmYTkwUkg0eDNuN0RIVDd5T1hZOURETUtaMlpreEE2TEZCZkJKYWFsY2lWTzZ6Sl9KZVZlY2oyVTQxY2VyUkZVUWhqbFNDRWV5bWo5a2VmR1FuOTl1bDdRc0twSzA?oc=5",
+          "published": "Thu, 05 Nov 2026 16:00:00 GMT"
+        },
+        {
+          "title": "Sony’s retro headphones brought me back to my youth - The Verge",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0VWZYV0FvRHJzR1VzbFo4bUttcDZuc3hGODhGNDVJZFJ3eEJ5cmlZaV9XNExDMlFfMXI5ZGYzTUxrWkc3NTZNLU9JZ3hnTk9lUmF1cnQ3ZDhUZ0FIMmN6ZjVVVS0zRlV0T2J6Q2U5cDVhRGh6bnc?oc=5",
+          "published": "Thu, 05 Nov 2026 16:00:00 GMT"
+        },
+        {
+          "title": "Sony revives its classic 1979 Walkman headphones for modern listeners – with a surprisingly affordable price - What Hi-Fi?",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTTVrVThKN0g4cFY5eUhjYXlqS2c2VnJJQUlGQkxJSHktSTQwc09kN05pMWVKWkZZY3YwRWd4c0c2VU5FdGJ1dnVOamZSWjdQcVpsdWNpVkZVTGhvR21KeWM3QW43TnpFMG9BUTNHeEZmTWFnRGNrd0NDVU5xbWFKNTMyRHViV2JrcUNoUjRCcU90TXNueTVvU19MdWQyNVZlcWFvR0JoSmIxM2VJdmlWVWx3ZEhOLTNMWWZqOWE4em51NXJNZHNKLWZCTUJVSkYxVFB5b3diMXA4UjgzN3FrR3lsQU9odHRyODhkZVdPdU0?oc=5",
+          "published": "Thu, 05 Nov 2026 16:00:00 GMT"
+        },
+        {
+          "title": "Sony's MDR-3R Wired Headphones Are Steeped In Retro Aesthetics - Engadget",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQTU3c1IzbDk4TnVGRGxGaEluUTN3ZkNraVJpSmdZcWM1czB6TENNNFZLald1akNJcDNOVjRuTlJIMEpVYkNxLWV4TURkWG1fZWkzODBJOTlyTWZfU253VjQwakNPMmZKWlMxRzJTQk5nS1c0RFA1M1dVSXZ0dUc5R3ZLQXdhME8zaVB1NnVVZ0xIZGJJYURoSjdn?oc=5",
+          "published": "Thu, 05 Nov 2026 16:00:00 GMT"
+        },
+        {
+          "title": "Sony's new wired headphones look straight out of the Walkman era, but there's nothing dated about their sound - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlRySjZXR09fcHdRMWhaLVdESkJHWDE2MVg0UHAzQmRkS2RuaTBKRjNLR1lzUzNMYm9VdzhBTGotSGs5c3dHeWlfeHNFYWItWVFRZzA2SEJnSkMxOEdRenRKRUlVNE03QWNWdzNQVncySUV5VHZUcVpGcERDTUJIR3RoY0hKQQ?oc=5",
+          "published": "Thu, 05 Nov 2026 19:09:00 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google Trends",
+          "type": "trending_search",
+          "url": "https://trends.google.com/trending/rss?geo=AU"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVDdyVmtfa1U0SE45S3YtMWEweU9EYjlscWhLTjFWb2FPTm5iRldUTWtUMkQwUmlpSzBTdW5VQlNnZ0l0STlNZ2tyMEd4OWRmYTkwUkg0eDNuN0RIVDd5T1hZOURETUtaMlpreEE2TEZCZkJKYWFsY2lWTzZ6Sl9KZVZlY2oyVTQxY2VyUkZVUWhqbFNDRWV5bWo5a2VmR1FuOTl1bDdRc0twSzA?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0VWZYV0FvRHJzR1VzbFo4bUttcDZuc3hGODhGNDVJZFJ3eEJ5cmlZaV9XNExDMlFfMXI5ZGYzTUxrWkc3NTZNLU9JZ3hnTk9lUmF1cnQ3ZDhUZ0FIMmN6ZjVVVS0zRlV0T2J6Q2U5cDVhRGh6bnc?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTTVrVThKN0g4cFY5eUhjYXlqS2c2VnJJQUlGQkxJSHktSTQwc09kN05pMWVKWkZZY3YwRWd4c0c2VU5FdGJ1dnVOamZSWjdQcVpsdWNpVkZVTGhvR21KeWM3QW43TnpFMG9BUTNHeEZmTWFnRGNrd0NDVU5xbWFKNTMyRHViV2JrcUNoUjRCcU90TXNueTVvU19MdWQyNVZlcWFvR0JoSmIxM2VJdmlWVWx3ZEhOLTNMWWZqOWE4em51NXJNZHNKLWZCTUJVSkYxVFB5b3diMXA4UjgzN3FrR3lsQU9odHRyODhkZVdPdU0?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQTU3c1IzbDk4TnVGRGxGaEluUTN3ZkNraVJpSmdZcWM1czB6TENNNFZLald1akNJcDNOVjRuTlJIMEpVYkNxLWV4TURkWG1fZWkzODBJOTlyTWZfU253VjQwakNPMmZKWlMxRzJTQk5nS1c0RFA1M1dVSXZ0dUc5R3ZLQXdhME8zaVB1NnVVZ0xIZGJJYURoSjdn?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlRySjZXR09fcHdRMWhaLVdESkJHWDE2MVg0UHAzQmRkS2RuaTBKRjNLR1lzUzNMYm9VdzhBTGotSGs5c3dHeWlfeHNFYWItWVFRZzA2SEJnSkMxOEdRenRKRUlVNE03QWNWdzNQVncySUV5VHZUcVpGcERDTUJIR3RoY0hKQQ?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    }
+  ],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -10,5 +83,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
+  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
 }

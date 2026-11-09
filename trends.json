@@ -1,49 +1,6 @@
 {
-  "updatedAt": "2026-11-09T09:56:39.905625+00:00",
-  "items": [
-    {
-      "name": "wired headphones mdr 3r",
-      "region": "Filipine",
-      "geo": "PH",
-      "traffic": "200+",
-      "published": "Mon, 9 Nov 2026 01:00:00 -0800",
-      "source": "Google Trends RSS",
-      "url": "https://trends.google.com/trending/rss?geo=PH",
-      "trendThumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXht5voglkWg01AUbHCCQtLCMehwXvJM9D-qH6tGMotPJljHt4irL6Vhjic1s",
-      "trafficType": "approximate_trending_searches",
-      "news": [
-        {
-          "title": "Wired Headphones MDR-3R, a Modern Take on the First Walkman - Sony UK",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFJQMXg2dWZCdk5zY0pIUTFYZlBwdUtVelk0OWJoUVJPU1Z6WHFvaHBzamJ1cHQ4RUdjWk5aek9rXzdPRE1MeXh1X2dEUl9IamppUVA1TGZZbXZQdXVCcTJDWG5zelVMQ3RueUdoU2NKU1llcHA4XzRBRUIxS1pfcXFsZXJWSElxcERITU1ILTFOeU94T0JXNHlvTHBGSVJxSmowTW4wcWJkYkthaHB5SVlFQlU4SHVKSUNEaS1nQzR5YWxiZVFZZGF6SQ?oc=5",
-          "published": "Thu, 05 Nov 2026 17:27:03 GMT"
-        },
-        {
-          "title": "Walkman headphones of yesteryear reborn as cutting-edge wired headphones - 파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HZld2QlF1MzZMOGhHelNkUlQ5dG9fNVVyZlZpTlNzQnJzM0IwNkRBdlJ1UnkxVXdxU1lWTmUzYndmem5ad3M2Tm83Z1h1a1g5TXp6ejRwV0g?oc=5",
-          "published": "Fri, 06 Nov 2026 01:15:00 GMT"
-        }
-      ],
-      "videos": [],
-      "evidence": [
-        {
-          "source": "Google Trends",
-          "type": "trending_search",
-          "url": "https://trends.google.com/trending/rss?geo=PH"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFJQMXg2dWZCdk5zY0pIUTFYZlBwdUtVelk0OWJoUVJPU1Z6WHFvaHBzamJ1cHQ4RUdjWk5aek9rXzdPRE1MeXh1X2dEUl9IamppUVA1TGZZbXZQdXVCcTJDWG5zelVMQ3RueUdoU2NKU1llcHA4XzRBRUIxS1pfcXFsZXJWSElxcERITU1ILTFOeU94T0JXNHlvTHBGSVJxSmowTW4wcWJkYkthaHB5SVlFQlU4SHVKSUNEaS1nQzR5YWxiZVFZZGF6SQ?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HZld2QlF1MzZMOGhHelNkUlQ5dG9fNVVyZlZpTlNzQnJzM0IwNkRBdlJ1UnkxVXdxU1lWTmUzYndmem5ad3M2Tm83Z1h1a1g5TXp6ejRwV0g?oc=5"
-        }
-      ],
-      "productStatus": "candidate_unverified"
-    }
-  ],
+  "updatedAt": "2026-11-09T20:51:21.367072+00:00",
+  "items": [],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -53,5 +10,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
+  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
 }

@@ -1,79 +1,6 @@
 {
-  "updatedAt": "2026-11-15T01:59:14.639143+00:00",
-  "items": [
-    {
-      "name": "robot",
-      "region": "Malaysia",
-      "geo": "MY",
-      "traffic": "100+",
-      "published": "Sat, 14 Nov 2026 14:50:00 -0800",
-      "source": "Google Trends RSS",
-      "url": "https://trends.google.com/trending/rss?geo=MY",
-      "trendThumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWwGrWzjFNB0JLnUCItpXRMXEPrXrKV1kvukW50HgXwG5yv3TgKa18ZOmoZDM",
-      "trafficType": "approximate_trending_searches",
-      "news": [
-        {
-          "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5YW05b2ptbVhhVkdHSnNqN2wwU1RaN1pHMGh3UUU3SlpWcUl0MVNINloxLVFmbVV4N0dWaU90RDBGb3p4MktjTDVVeUtIR25PVnNjLWhQeURhdkthcUJ2cUVmMkJ2OXUzVUNFZXF5UnBoQdIBd0FVX3lxTE9DQVVfcVVUOVhwbko1ME5GeG16NmR6Q2lWVnNNdU1mTjdYS3RmVVh2WDQyY2hqZWM4UGNvcWVnX3hhdkZFby1hVjRTVHFWUmg4TjNxSE93aDFPejc4SWFIM1RGOGVzR0xhdXAxbU5kUmtiLWxoZzFF?oc=5",
-          "published": "Sat, 14 Nov 2026 12:00:01 GMT"
-        },
-        {
-          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future. - MIT Technology Review",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzlkcUZFWmc3Uk8zUXVDTi1TclV5dGtSM0d4bG5hTF82TzZhbkZxc0tXbGE1b0ZtN0Z4UDhsdy1pTmFBNjE3RmEwd0V0akVrWExpbXktR3FhSUZlb2ZRNFhNczh4S2xGb0RNbElZTlliZXBVMENNNmdKbE1MSGJaREhDanhxMlN6bXpHZEtDcWttU01Zc1F2MnJaRy0yM29BVDUwVGlpc1ZaQlFsT1Y3Q2RPeEdKNU4zc1p4LWtsbC16MkYyeGh4cFAzYnJlZ9IB0wFBVV95cUxQMHVGVXhVb2FVVjNlaVF3dFZlT3UtNlhybEdBaVEwWHAwSVFETUhBWDJacFdDSVpzLXZjbDJlamJyQmJZQU1idWd6dXpvVnl3VVU4dzlDRElpVlp5TFRKYXJLUVpabnp3SEs1TlhqbTg2cV9wRVNmRTROZGkzRmlXUXAzZG91VTNBN3Axb0pyX25HT2NvTnRLUVBWRUNrMVhrVzBpN2N6RWxoVmRVMmRHc0MyVlk4T1NZbFFneXJsNzN5TE5iMkk5UzRzZWJ0RFIzU1VJ?oc=5",
-          "published": "Fri, 06 Nov 2026 08:00:00 GMT"
-        },
-        {
-          "title": "Ruko Mini Robot Dog R1 Review - Cubed3",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OUWkxZjhFdjVJaS1IUTN2b19iM3l5aGxMaHhtd21ocTdOR2tIWS1tMHAwOUtQNjZzeWNZNlZOZTYtSDQwYkdiRDlvaDFtSHFfRWdRWnpDS082OHRvVENXaTFBRGdHVmUzSnU1U2xuOFhCUVFlOG1UZ1N3?oc=5",
-          "published": "Sat, 14 Nov 2026 09:03:54 GMT"
-        },
-        {
-          "title": "A 328-study review shows robot arm gains coming from control software and vision - MarketScale",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaW9OWkpvREdwX1FDekdtOFJiUDNsd24wdS1CdUh6Wi1Nc19IOGdTbFJGM3ZsYzNLMFhFSUowU1dMQzAyM0dwWmtoM0ZteWVCQUI2cVp6M3Z1YlZkY01qem1jU0lGeTA2V19Yc21BUUdNeUdoRF9tdjUxZ2pOMkpqTGk1WnJiRnFsZ1I0ajN4YVlXRVJaeHI2QmY0WVlIVko1dTM3R1JOaHluZWRXSlFIQkxWdVloSzVIYkRlVGRtcEt0eWpPTzhmTm9HSGJvVFU?oc=5",
-          "published": "Fri, 13 Nov 2026 11:31:00 GMT"
-        },
-        {
-          "title": "Ring Launches a Flying Home Camera and a Patrol Robot for Businesses - Gadget Review",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMjBjOFlzN29Xcjhlc1hRX1ZlTDdBeU9aZlItaWhLNW0zVU50VFZZdm4zaUpqbDhHZXNsaWRDRXIzdlNMQnE1d0NxOUpyVkV3MDIxUzQwdmoxdUhpcEk1RDRRelRLSGZkN1c3MENNTWdmeFI5ZlFhdTJhekYxVEtqeUp6ckVCNHFzZVJHQVBvNmhVUS1zNE9iSWVZWjVjZw?oc=5",
-          "published": "Tue, 10 Nov 2026 17:10:24 GMT"
-        }
-      ],
-      "videos": [],
-      "evidence": [
-        {
-          "source": "Google Trends",
-          "type": "trending_search",
-          "url": "https://trends.google.com/trending/rss?geo=MY"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5YW05b2ptbVhhVkdHSnNqN2wwU1RaN1pHMGh3UUU3SlpWcUl0MVNINloxLVFmbVV4N0dWaU90RDBGb3p4MktjTDVVeUtIR25PVnNjLWhQeURhdkthcUJ2cUVmMkJ2OXUzVUNFZXF5UnBoQdIBd0FVX3lxTE9DQVVfcVVUOVhwbko1ME5GeG16NmR6Q2lWVnNNdU1mTjdYS3RmVVh2WDQyY2hqZWM4UGNvcWVnX3hhdkZFby1hVjRTVHFWUmg4TjNxSE93aDFPejc4SWFIM1RGOGVzR0xhdXAxbU5kUmtiLWxoZzFF?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzlkcUZFWmc3Uk8zUXVDTi1TclV5dGtSM0d4bG5hTF82TzZhbkZxc0tXbGE1b0ZtN0Z4UDhsdy1pTmFBNjE3RmEwd0V0akVrWExpbXktR3FhSUZlb2ZRNFhNczh4S2xGb0RNbElZTlliZXBVMENNNmdKbE1MSGJaREhDanhxMlN6bXpHZEtDcWttU01Zc1F2MnJaRy0yM29BVDUwVGlpc1ZaQlFsT1Y3Q2RPeEdKNU4zc1p4LWtsbC16MkYyeGh4cFAzYnJlZ9IB0wFBVV95cUxQMHVGVXhVb2FVVjNlaVF3dFZlT3UtNlhybEdBaVEwWHAwSVFETUhBWDJacFdDSVpzLXZjbDJlamJyQmJZQU1idWd6dXpvVnl3VVU4dzlDRElpVlp5TFRKYXJLUVpabnp3SEs1TlhqbTg2cV9wRVNmRTROZGkzRmlXUXAzZG91VTNBN3Axb0pyX25HT2NvTnRLUVBWRUNrMVhrVzBpN2N6RWxoVmRVMmRHc0MyVlk4T1NZbFFneXJsNzN5TE5iMkk5UzRzZWJ0RFIzU1VJ?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OUWkxZjhFdjVJaS1IUTN2b19iM3l5aGxMaHhtd21ocTdOR2tIWS1tMHAwOUtQNjZzeWNZNlZOZTYtSDQwYkdiRDlvaDFtSHFfRWdRWnpDS082OHRvVENXaTFBRGdHVmUzSnU1U2xuOFhCUVFlOG1UZ1N3?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaW9OWkpvREdwX1FDekdtOFJiUDNsd24wdS1CdUh6Wi1Nc19IOGdTbFJGM3ZsYzNLMFhFSUowU1dMQzAyM0dwWmtoM0ZteWVCQUI2cVp6M3Z1YlZkY01qem1jU0lGeTA2V19Yc21BUUdNeUdoRF9tdjUxZ2pOMkpqTGk1WnJiRnFsZ1I0ajN4YVlXRVJaeHI2QmY0WVlIVko1dTM3R1JOaHluZWRXSlFIQkxWdVloSzVIYkRlVGRtcEt0eWpPTzhmTm9HSGJvVFU?oc=5"
-        },
-        {
-          "source": "Google News",
-          "type": "news_mention",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMjBjOFlzN29Xcjhlc1hRX1ZlTDdBeU9aZlItaWhLNW0zVU50VFZZdm4zaUpqbDhHZXNsaWRDRXIzdlNMQnE1d0NxOUpyVkV3MDIxUzQwdmoxdUhpcEk1RDRRelRLSGZkN1c3MENNTWdmeFI5ZlFhdTJhekYxVEtqeUp6ckVCNHFzZVJHQVBvNmhVUS1zNE9iSWVZWjVjZw?oc=5"
-        }
-      ],
-      "productStatus": "candidate_unverified"
-    }
-  ],
+  "updatedAt": "2026-11-15T09:37:54.377414+00:00",
+  "items": [],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -83,5 +10,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
+  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
 }

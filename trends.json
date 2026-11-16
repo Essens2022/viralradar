@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-16T06:50:11.861478+00:00",
-  "items": [],
+  "updatedAt": "2026-11-16T18:41:10.271363+00:00",
+  "items": [
+    {
+      "name": "drone-aanval",
+      "region": "Belgia",
+      "geo": "BE",
+      "traffic": "200+",
+      "published": "Mon, 16 Nov 2026 09:10:00 -0800",
+      "source": "Google Trends RSS",
+      "url": "https://trends.google.com/trending/rss?geo=BE",
+      "trendThumbnail": "",
+      "trafficType": "approximate_trending_searches",
+      "news": [],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google Trends",
+          "type": "trending_search",
+          "url": "https://trends.google.com/trending/rss?geo=BE"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    }
+  ],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -10,5 +32,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
+  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
 }

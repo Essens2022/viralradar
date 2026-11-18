@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-11-18T07:43:32.331530+00:00",
-  "items": [],
+  "updatedAt": "2026-11-18T17:21:56.887101+00:00",
+  "items": [
+    {
+      "name": "drone",
+      "region": "Portugalia",
+      "geo": "PT",
+      "traffic": "2000+",
+      "published": "Wed, 18 Nov 2026 07:40:00 -0800",
+      "source": "Google Trends RSS",
+      "url": "https://trends.google.com/trending/rss?geo=PT",
+      "trendThumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIQsqLWnh8Dj1K9Ta73E4oXvcKn5gwNGouNgf8-MkNUEG6Z4xGy200vkL7vHg",
+      "trafficType": "approximate_trending_searches",
+      "news": [
+        {
+          "title": "2026 HCD Conference Session Review: Designing For Drone Programs At Healthcare Facilities - Healthcare Design Magazine",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRDJwS2xIQzc5cjd5TFlNWFVsYVoxWXhHQzdOLUtFeW9OVjcyUXp3OGdDRV9QSVpiTGFraUE1c0pLTThaZVhLMWY5TmhZTW1VQWRwWlhGU1NoRDRDTmd5SUpPV3JvTmhnWGs2TUVmR0tuQzJUR3c2OHNJWWpmZjhGckdCTktudzFQRW5YbC1MVEw1NDBuQW1CRkd3VnYtNUpEOVdUbzIzSjlEUGdaOEZiSG1PUmFfclFLSm9uVS1wdTQwRG5qeHpkSEk0UkZBNk5RYUlvOVNEOA?oc=5",
+          "published": "Tue, 17 Nov 2026 17:03:22 GMT"
+        },
+        {
+          "title": "ABIS Highlights Custom Drone Parts Molds for UAV Product Development - EIN Presswire",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUk9hRjMxWlNBUWJYdG5pREdUN096SDFDSl84M1VoRlNTRGs0a3dYaTNKZS15eHNjVWhBa2lXR3c4OTduN3otNkVGRWwwWjFmU1k4Q0lnUldUZk1RaGo1NXJXWElSdHpRbWVCUU5uR1JwdldGVWFndG1MUFByN2ItY1RQVDV5cDM2UF80Y1c4TnplaWRMVFBXNnAwQ3lkcnpid3BhbDNnckt4cmNkaHk3cTd1UVdaZw?oc=5",
+          "published": "Wed, 18 Nov 2026 10:08:00 GMT"
+        },
+        {
+          "title": "Irish police buy Israeli counter-drone systems despite procurement ban - JNS.org",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXBIRjA2UUdFZ2FpbWZBakhXWGZQNm03S0ZqRW9rQ0pXQnFhM3hESTNLWkk2OF9HVDMxNFh3RURSTV9ELVRtUkxKVExxQk81QVdlanF3czB2dmZlMVBWeTd3Q3NRZTFnZFJTU2F1c0N5Y1FuaUJjM0F1UzEyRlg1c2EzOVdsQkY0WFgwQXNZVVJONlRrRDhtNlhIVzhNSzFfTk9EWWFwU0l2bVU?oc=5",
+          "published": "Mon, 16 Nov 2026 11:01:51 GMT"
+        },
+        {
+          "title": "Swarmer closes Vataga Drone IP buy, hires CEO and 14 engineers - Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmR1RmtsWFRLaDFkWHBWMlg5UVgzdG15dUNXZWpWMkV4UW9PVWhNUHRRS3BtQmxaMW1uTDNydkdNNzdndURaa004Y28xc0pvaWNOdHpTOWJTT2VKeE1iYk9udWlQMWhkUDl1Yk5qaE9CbDlOUUpIUTU5Q3N5MTdWc215SUZIY1F5OFFUR3NhYTZPaHVFTE93cGZURQ?oc=5",
+          "published": "Mon, 16 Nov 2026 14:10:10 GMT"
+        },
+        {
+          "title": "FCC pushes to shut down DJI’s lawsuit over US drone ban - DroneDJ",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oWU52ZWdOM1RzODZqeERSLXpuMzJuSW4xbTdYU205YlMxV0xPcm9Yb3o0a3NySTRrUzQ5bDgteTBHSjFWX2VxWGdkRzJ4OXRJWjBjVFg5dUJtV0ZtSS1BczlTLXA1dDV6?oc=5",
+          "published": "Tue, 17 Nov 2026 07:26:00 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google Trends",
+          "type": "trending_search",
+          "url": "https://trends.google.com/trending/rss?geo=PT"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRDJwS2xIQzc5cjd5TFlNWFVsYVoxWXhHQzdOLUtFeW9OVjcyUXp3OGdDRV9QSVpiTGFraUE1c0pLTThaZVhLMWY5TmhZTW1VQWRwWlhGU1NoRDRDTmd5SUpPV3JvTmhnWGs2TUVmR0tuQzJUR3c2OHNJWWpmZjhGckdCTktudzFQRW5YbC1MVEw1NDBuQW1CRkd3VnYtNUpEOVdUbzIzSjlEUGdaOEZiSG1PUmFfclFLSm9uVS1wdTQwRG5qeHpkSEk0UkZBNk5RYUlvOVNEOA?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUk9hRjMxWlNBUWJYdG5pREdUN096SDFDSl84M1VoRlNTRGs0a3dYaTNKZS15eHNjVWhBa2lXR3c4OTduN3otNkVGRWwwWjFmU1k4Q0lnUldUZk1RaGo1NXJXWElSdHpRbWVCUU5uR1JwdldGVWFndG1MUFByN2ItY1RQVDV5cDM2UF80Y1c4TnplaWRMVFBXNnAwQ3lkcnpid3BhbDNnckt4cmNkaHk3cTd1UVdaZw?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXBIRjA2UUdFZ2FpbWZBakhXWGZQNm03S0ZqRW9rQ0pXQnFhM3hESTNLWkk2OF9HVDMxNFh3RURSTV9ELVRtUkxKVExxQk81QVdlanF3czB2dmZlMVBWeTd3Q3NRZTFnZFJTU2F1c0N5Y1FuaUJjM0F1UzEyRlg1c2EzOVdsQkY0WFgwQXNZVVJONlRrRDhtNlhIVzhNSzFfTk9EWWFwU0l2bVU?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmR1RmtsWFRLaDFkWHBWMlg5UVgzdG15dUNXZWpWMkV4UW9PVWhNUHRRS3BtQmxaMW1uTDNydkdNNzdndURaa004Y28xc0pvaWNOdHpTOWJTT2VKeE1iYk9udWlQMWhkUDl1Yk5qaE9CbDlOUUpIUTU5Q3N5MTdWc215SUZIY1F5OFFUR3NhYTZPaHVFTE93cGZURQ?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oWU52ZWdOM1RzODZqeERSLXpuMzJuSW4xbTdYU205YlMxV0xPcm9Yb3o0a3NySTRrUzQ5bDgteTBHSjFWX2VxWGdkRzJ4OXRJWjBjVFg5dUJtV0ZtSS1BczlTLXA1dDV6?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    }
+  ],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -10,5 +83,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
+  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
 }

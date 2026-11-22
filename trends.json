@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-21T20:36:12.652784+00:00",
-  "items": [],
+  "updatedAt": "2026-11-22T02:21:39.711890+00:00",
+  "items": [
+    {
+      "name": "cargo russe drone",
+      "region": "Franța",
+      "geo": "FR",
+      "traffic": "20000+",
+      "published": "Sat, 21 Nov 2026 17:00:00 -0800",
+      "source": "Google Trends RSS",
+      "url": "https://trends.google.com/trending/rss?geo=FR",
+      "trendThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMbxoPdF4HUCEufEmoeYZ1r_MPgpEuH1yIGe1rCkmHaOU4eJavLDANv5B9Hzs",
+      "trafficType": "approximate_trending_searches",
+      "news": [],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google Trends",
+          "type": "trending_search",
+          "url": "https://trends.google.com/trending/rss?geo=FR"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    }
+  ],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -10,5 +32,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
+  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
 }

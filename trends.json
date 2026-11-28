@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-11-27T22:47:11.648696+00:00",
-  "items": [],
+  "updatedAt": "2026-11-28T08:05:58.783119+00:00",
+  "items": [
+    {
+      "name": "ps5 console",
+      "region": "Canada",
+      "geo": "CA",
+      "traffic": "100+",
+      "published": "Fri, 27 Nov 2026 23:30:00 -0800",
+      "source": "Google Trends RSS",
+      "url": "https://trends.google.com/trending/rss?geo=CA",
+      "trendThumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFy8HCNr5nf9X333WJBZ1oKaptht3euJSrsZcPvOwg7rEmWQIJ3-2xMkrMSKE",
+      "trafficType": "approximate_trending_searches",
+      "news": [
+        {
+          "title": "Black Friday PlayStation deals are selling out fast: See the best of what's left - Mashable",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmM1cnd5VGRIRy1wS09WM05mWmhlMWNBaWktdVh6d0tlaVQ3Q3c3QXljd3ZUWUJIdFd1V3UxV2tYTm40ZmtKQVN4eUl0LUtzXzRrU0VFRlgtVUNJa3FoMENrVE9ZclExQ0JIZEhtbmdOZFB2REZGS3VhdTZ2clRmQQ?oc=5",
+          "published": "Fri, 27 Nov 2026 19:32:48 GMT"
+        },
+        {
+          "title": "PS5s Are in Short Supply for Black Friday, but You Can Still Buy One - Lifehacker",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZeUJzdnZGek5aY0R1YWg0QW9vaUhmSDlyY0FBZ20zRWVlTGx3VDNUMHA1UVVQNDFJLVhaYlE1cUw1ZGN3V2ZHT2tnbEJYTEI5NXRwQjd3MHYwU3llX1k4bFoycUdocnZNTDJKU3RHRzNuNzJxanZxdw?oc=5",
+          "published": "Wed, 25 Nov 2026 21:00:00 GMT"
+        },
+        {
+          "title": "PlayStation is Heading Into the Black Friday Sale Season Without a Single Discount on Its PS5 Consoles — But Why? - IGN",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNRG95dUx1aFhSSTY4S29SQ2lSano2NHNQUmpFV0hHczFqeXdsVmJRUjJZZzVsaFlyMWxUazgzWUw2bC1POFdUN2VhMkx0eWMzUXFkMF9PVDhidGFzRno4YXRmelotT05uMHZ3Q3NhMmlGQQ?oc=5",
+          "published": "Fri, 27 Nov 2026 14:39:59 GMT"
+        },
+        {
+          "title": "Best Buy has the only GTA 6 PS5 console bundle deal on Black Friday. Get it before it sells out - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVE1fRWx4SzlQSXdIcm1nci1SMW5zaEU2OE42WWFrT1pUZVhwaURjVXVGc1hjVGxTVF90cXV5M1hMcnp6YmtkcDdOdWdGel9hRkdCZHZoNkthYzZORExPZG5KNG82dFgtWG91cC1JZVJNQS1mMHVUUXF4XzJ2Nk9XczRGR3JaX1czYU1XRg?oc=5",
+          "published": "Fri, 27 Nov 2026 15:37:06 GMT"
+        },
+        {
+          "title": "Can I get a PS5 before Christmas in the UK? What about the PS5 Pro? - T3",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRXNKREg5a0JHRjdwT09kQUJjblFiek1ZNndoV3k0YjJCN3NJSmVnTlRwZ1pXTkk2bUdXLVJsQWxLU0llYzFTaWRZeVJMbGkyckxpTGNIbGxFUE1qZ29qQTAwbDdpRkNlU0pBOGdYeHhneVNNekVlUk5DbXJvajhNNEtxaEptTzRJMVhHeWJhOGJhSXdyeldSdE53VFU?oc=5",
+          "published": "Fri, 27 Nov 2026 10:35:41 GMT"
+        }
+      ],
+      "videos": [],
+      "evidence": [
+        {
+          "source": "Google Trends",
+          "type": "trending_search",
+          "url": "https://trends.google.com/trending/rss?geo=CA"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmM1cnd5VGRIRy1wS09WM05mWmhlMWNBaWktdVh6d0tlaVQ3Q3c3QXljd3ZUWUJIdFd1V3UxV2tYTm40ZmtKQVN4eUl0LUtzXzRrU0VFRlgtVUNJa3FoMENrVE9ZclExQ0JIZEhtbmdOZFB2REZGS3VhdTZ2clRmQQ?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZeUJzdnZGek5aY0R1YWg0QW9vaUhmSDlyY0FBZ20zRWVlTGx3VDNUMHA1UVVQNDFJLVhaYlE1cUw1ZGN3V2ZHT2tnbEJYTEI5NXRwQjd3MHYwU3llX1k4bFoycUdocnZNTDJKU3RHRzNuNzJxanZxdw?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNRG95dUx1aFhSSTY4S29SQ2lSano2NHNQUmpFV0hHczFqeXdsVmJRUjJZZzVsaFlyMWxUazgzWUw2bC1POFdUN2VhMkx0eWMzUXFkMF9PVDhidGFzRno4YXRmelotT05uMHZ3Q3NhMmlGQQ?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVE1fRWx4SzlQSXdIcm1nci1SMW5zaEU2OE42WWFrT1pUZVhwaURjVXVGc1hjVGxTVF90cXV5M1hMcnp6YmtkcDdOdWdGel9hRkdCZHZoNkthYzZORExPZG5KNG82dFgtWG91cC1JZVJNQS1mMHVUUXF4XzJ2Nk9XczRGR3JaX1czYU1XRg?oc=5"
+        },
+        {
+          "source": "Google News",
+          "type": "news_mention",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRXNKREg5a0JHRjdwT09kQUJjblFiek1ZNndoV3k0YjJCN3NJSmVnTlRwZ1pXTkk2bUdXLVJsQWxLU0llYzFTaWRZeVJMbGkyckxpTGNIbGxFUE1qZ29qQTAwbDdpRkNlU0pBOGdYeHhneVNNekVlUk5DbXJvajhNNEtxaEptTzRJMVhHeWJhOGJhSXdyeldSdE53VFU?oc=5"
+        }
+      ],
+      "productStatus": "candidate_unverified"
+    }
+  ],
   "sourceStatus": {
     "Google Trends": "reachable",
     "Google News": "supporting_evidence_only",
@@ -10,5 +83,5 @@
     "Facebook": "not_connected",
     "Reddit": "not_connected"
   },
-  "note": "No product candidates found in accessible feeds; check GitHub Actions logs and source availability."
+  "note": "Google Trends candidate searches only. Editorial headlines are never product listings; verified merchant offers required."
 }
